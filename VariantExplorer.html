@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" >
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variant Explorer</title>
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/foundation.css">
+
+    <script src="js/vendor/modernizr.js"></script>
+    <script src="VariantExplorer.js"></script>
+
+    <style class="cp-pen-styles">body {
+        font: normal medium/1.4 sans-serif;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        padding: 0.25rem;
+        text-align: left;
+        border: 1px solid #ccc;
+    }
+    .hover {
+        background: #00ff13;
+    }</style>
+
+</head>
+<body>
+
+<div align = "right">Based on March 2015 ClinVar Discrepancies File</div>
+
+<h1>Choose an exploration strategy</h1>
+<div id="TopSelectBox">
+    <button type="button" id="LabSearchButton">Search By Lab</button>
+    <button type="button" id="LabMegaTableButton">Show Lab Mega Table</button>
+    <button type="button" id="SignificanceSearchButton">Search By Significance</button>
+    <button type="button" id="VariantSearchButton">Search By Variant</button>
+</div>
+<div id="Area1"></div>
+<div id="Area2"></div>
+<div id="Area3"></div>
+<div id="Area4"></div>
+<div id="Area5"></div>
+<div id="variantLabStatistics"></div>
+<div id="labVariants"></div>
+<div id="variantSigStatistics"></div>
+<div id="selectBox"></div>
+<div id="variantDisplay"></div>
+
+<script src="js/vendor/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script>
+    $(document).foundation();
+
+    $(document).ready(function(){
+        $("#msgid").html("he is cool");
+
+        $(document).foundation();
+        $('#scope').foundation();
+
+        processDiffFile('input/diff_rpt.txt');
+    });
+
+</script>
+
+
+</body>
+</html>
+
