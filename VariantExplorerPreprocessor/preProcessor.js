@@ -14,7 +14,7 @@
 
     var fs = require('fs');
 
-    fs.readFile('ClinVarMar.2015.txt', function (err, fileContents) {
+    fs.readFile('ClinVarApr.2015.txt', function (err, fileContents) {
 
             if(err) {console.log('file error' + err);}
             var fileContentsString = fileContents.toString();
@@ -187,7 +187,7 @@
         variant.name = fArray[3];
         variant.labInterps = new Array();
         variant.transcript = "";
-
+        variant.alleleID = fArray[2];
         separateTranscript(variant);
 
         vArray.push(variant);

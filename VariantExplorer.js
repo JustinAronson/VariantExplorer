@@ -482,7 +482,6 @@ function generateLabVArray(labArray, index1, index2) {
 }
 
 function generateLabTable(labArray) {
-    var tableGenerater = "";
     var ltArray = createLabTableArray(labArray);
     var name;
     for ( var i = 0; i < interpPairsArray.length; i++ ) {
@@ -525,7 +524,7 @@ function sigTableHeader(sigArray) {
 function labTableHeader(labArray) {
     var headerGenerater = "<tr><td>Lab Name</td><td>Lab #</td><td>Lab Variant Count</td>";
     for( i = 0; i < labArray.length; i++ ) {
-        headerGenerater = headerGenerater + "<td>Lab " + ( i + 1 ) + "</td>";
+        headerGenerater = headerGenerater + "<td><a title=\"" + labArray[i] + "\">Lab " + ( i + 1 ) + "</td>";
     }
     headerGenerater = headerGenerater + "</tr>";
     return headerGenerater;
@@ -632,7 +631,7 @@ function selectBoxChanged() {
 function buildVariantTable(variant) {
     var htmlOutput = "<Table width = \"100%\" >";
     htmlOutput = htmlOutput + "<tr>";
-    htmlOutput = htmlOutput + variant.transcript + variant.name;
+    htmlOutput = htmlOutput + "<a href=\"http://www.ncbi.nlm.nih.gov/clinvar/?term=22144[" + variant.alleleID + "]\">" + variant.transcript + variant.name + "</a>";
     htmlOutput = htmlOutput + "</tr>";
 
     htmlOutput = htmlOutput + "<tr>";
