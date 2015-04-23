@@ -698,7 +698,7 @@ function writeLabTableRow(labName, labCount, labIndex, ltArray) {
     htmlOutput = htmlOutput + labCount;
     htmlOutput = htmlOutput + "</td>";
     for ( var i = 0; i < ltArray[labIndex].length; i++ ) {
-        htmlOutput = htmlOutput + "<td>" + ltArray[labIndex][i] + "</td>";
+        htmlOutput = htmlOutput + "<td><a title=\"" + labArray[i] + " and " + labName + "\">" + ltArray[labIndex][i] + "</td>";
     }
     htmlOutput = htmlOutput + "</tr>";
 
