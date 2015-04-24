@@ -247,23 +247,25 @@ function generateSigCountTable (sigCounts, sigArray, secondaryLab, labSpecificFl
     tableGenerater = tableGenerater +  "<script>" +
     "$('#The" + labNoSpace + secondLabNoSpace + "SigTable tr td').click(function() {" +
     "var td = $(this).closest('td');" +
-    "var tr = $(this).closest('tr');" +
-    "generateSigVariantListForLabPair(tr[0].rowIndex -1, td[0].cellIndex - 2, \"" + primaryLab + "\", \"" + secondaryLab + "\");});" +
-    "</script>";
+    "var tr = $(this).closest('tr');";
+    tableGenerater = tableGenerater + "generateSigVariantListForLabPair(tr[0].rowIndex -1, td[0].cellIndex - 2, \"" + primaryLab + "\", \"" + secondaryLab + "\");});"
+    tableGenerater = tableGenerater + "</script>";
 
     return tableGenerater;
 }
 
 function generateSigVariantListForLabPair(index1, index2, lab, secondaryLab) {
-    var sigArray = Object.getOwnPropertyNames(countSigs());
-    var sigVArray = generateSigVArrayForLabPair(sigArray, index1, index2, lab, secondaryLab);
-    var labNoSpace = lab.replace(/[';\s&,\/()]+/g, "");
-    var secondLabNoSpace = secondaryLab.replace(/[';\s&,\/()]+/g, "");
-    var htmlOutput = "";
-    for ( var i = 0; i < sigVArray.length; i++ ) {
-        htmlOutput = htmlOutput + buildVariantTable(sigVArray[i]);
+    if (index1 < 5 ) {
+        var sigArray = Object.getOwnPropertyNames(countSigs());
+        var sigVArray = generateSigVArrayForLabPair(sigArray, index1, index2, lab, secondaryLab);
+        var labNoSpace = lab.replace(/[';\s&,\/()]+/g, "");
+        var secondLabNoSpace = secondaryLab.replace(/[';\s&,\/()]+/g, "");
+        var htmlOutput = "";
+        for (var i = 0; i < sigVArray.length; i++) {
+            htmlOutput = htmlOutput + buildVariantTable(sigVArray[i]);
+        }
+        $("#" + labNoSpace + secondLabNoSpace).html(htmlOutput);
     }
-    $("#" + labNoSpace + secondLabNoSpace ).html(htmlOutput);
 }
 
 function totalCount(stArray) {
