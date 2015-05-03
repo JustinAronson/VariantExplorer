@@ -227,6 +227,8 @@
         labInterp.significance = fArray[8+ (index*10)];
         labInterp.evalDate = fArray[9+ (index*10)];
         labInterp.comments = fArray[13+ (index*10)];
+        labInterp.subCondition = fArray[11 + (index*10)];
+        labInterp.calcCondition = fArray[12 + (index*10)];
 
         var lastVariantIndex = vArray.length - 1;
 

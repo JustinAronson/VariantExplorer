@@ -27,18 +27,23 @@
       <file leaf-file-name="VariantExplorer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="1598" max-vertical-offset="4215">
-              <caret line="260" column="4" selection-start-line="260" selection-start-column="4" selection-end-line="260" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.79771614" vertical-offset="1881" max-vertical-offset="2700">
+              <caret line="665" column="140" selection-start-line="665" selection-start-column="140" selection-end-line="665" selection-end-column="140" />
               <folding>
                 <element signature="e#1011#1175#0" expanded="false" />
                 <element signature="e#1406#1470#0" expanded="false" />
                 <element signature="e#1550#1790#0" expanded="false" />
                 <element signature="e#1865#1942#0" expanded="false" />
+                <element signature="n#!!block;n#selectLab#0" expanded="false" />
+                <element signature="e#2455#2940#0" expanded="false" />
+                <element signature="e#2489#2934#0" expanded="false" />
+                <element signature="e#2787#2924#0" expanded="false" />
                 <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
                 <element signature="e#3408#3686#0" expanded="false" />
                 <element signature="e#3532#3589#0" expanded="false" />
                 <element signature="e#3620#3680#0" expanded="false" />
                 <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+                <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
                 <element signature="e#4110#4284#0" expanded="false" />
                 <element signature="e#4152#4210#0" expanded="false" />
                 <element signature="e#4216#4278#0" expanded="false" />
@@ -64,88 +69,95 @@
                 <element signature="e#7133#7460#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
                 <element signature="e#7943#8059#0" expanded="false" />
+                <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+                <element signature="e#8756#8873#0" expanded="false" />
+                <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+                <element signature="e#9624#10156#0" expanded="false" />
+                <element signature="e#10003#10085#0" expanded="false" />
                 <element signature="n#!!block;n#totalCount#0" expanded="false" />
-                <element signature="e#10256#10372#0" expanded="false" />
-                <element signature="e#10312#10366#0" expanded="false" />
+                <element signature="e#10257#10373#0" expanded="false" />
+                <element signature="e#10313#10367#0" expanded="false" />
+                <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+                <element signature="e#11335#11925#0" expanded="false" />
+                <element signature="e#11512#11621#0" expanded="false" />
+                <element signature="e#11627#11736#0" expanded="false" />
+                <element signature="e#11839#11919#0" expanded="false" />
                 <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-                <element signature="e#12113#12718#0" expanded="false" />
-                <element signature="e#12301#12410#0" expanded="false" />
-                <element signature="e#12416#12525#0" expanded="false" />
-                <element signature="e#12630#12712#0" expanded="false" />
+                <element signature="e#12114#12719#0" expanded="false" />
+                <element signature="e#12302#12411#0" expanded="false" />
+                <element signature="e#12417#12526#0" expanded="false" />
+                <element signature="e#12631#12713#0" expanded="false" />
                 <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-                <element signature="e#12852#12978#0" expanded="false" />
-                <element signature="e#12932#12972#0" expanded="false" />
+                <element signature="e#12853#12979#0" expanded="false" />
+                <element signature="e#12933#12973#0" expanded="false" />
                 <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-                <element signature="e#13102#13333#0" expanded="false" />
-                <element signature="e#13177#13327#0" expanded="false" />
-                <element signature="e#13263#13317#0" expanded="false" />
+                <element signature="e#13103#13334#0" expanded="false" />
+                <element signature="e#13178#13328#0" expanded="false" />
+                <element signature="e#13264#13318#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-                <element signature="e#13540#14404#0" expanded="false" />
-                <element signature="e#13645#14398#0" expanded="false" />
-                <element signature="e#13846#14388#0" expanded="false" />
-                <element signature="e#14201#14374#0" expanded="false" />
+                <element signature="e#13541#14405#0" expanded="false" />
+                <element signature="e#13646#14399#0" expanded="false" />
+                <element signature="e#13847#14389#0" expanded="false" />
+                <element signature="e#14202#14375#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-                <element signature="e#14679#14753#0" expanded="false" />
+                <element signature="e#14680#14754#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-                <element signature="e#14989#15063#0" expanded="false" />
+                <element signature="e#15051#15125#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-                <element signature="e#15252#15964#0" expanded="false" />
-                <element signature="e#15357#15958#0" expanded="false" />
-                <element signature="e#15512#15948#0" expanded="false" />
-                <element signature="e#15576#15934#0" expanded="false" />
-                <element signature="e#15756#15916#0" expanded="false" />
-                <element signature="e#15802#15894#0" expanded="false" />
+                <element signature="e#15314#16026#0" expanded="false" />
+                <element signature="e#15419#16020#0" expanded="false" />
+                <element signature="e#15574#16010#0" expanded="false" />
+                <element signature="e#15638#15996#0" expanded="false" />
+                <element signature="e#15818#15978#0" expanded="false" />
+                <element signature="e#15864#15956#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-                <element signature="e#16163#16837#0" expanded="false" />
-                <element signature="e#16564#16831#0" expanded="false" />
-                <element signature="e#16753#16821#0" expanded="false" />
+                <element signature="e#16225#16899#0" expanded="false" />
+                <element signature="e#16626#16893#0" expanded="false" />
+                <element signature="e#16815#16883#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-                <element signature="e#17007#17707#0" expanded="false" />
-                <element signature="e#17112#17701#0" expanded="false" />
-                <element signature="e#17261#17691#0" expanded="false" />
-                <element signature="e#17325#17677#0" expanded="false" />
-                <element signature="e#17499#17659#0" expanded="false" />
-                <element signature="e#17545#17637#0" expanded="false" />
+                <element signature="e#17069#17769#0" expanded="false" />
+                <element signature="e#17174#17763#0" expanded="false" />
+                <element signature="e#17323#17753#0" expanded="false" />
+                <element signature="e#17387#17739#0" expanded="false" />
+                <element signature="e#17561#17721#0" expanded="false" />
+                <element signature="e#17607#17699#0" expanded="false" />
+                <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+                <element signature="e#17952#18474#0" expanded="false" />
+                <element signature="e#18057#18468#0" expanded="false" />
+                <element signature="e#18203#18458#0" expanded="false" />
                 <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-                <element signature="e#18537#18718#0" expanded="false" />
-                <element signature="e#18747#18793#0" expanded="false" />
+                <element signature="e#18599#18780#0" expanded="false" />
+                <element signature="e#18809#18855#0" expanded="false" />
                 <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-                <element signature="e#18973#19056#0" expanded="false" />
+                <element signature="e#19035#19118#0" expanded="false" />
+                <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+                <element signature="e#19370#19488#0" expanded="false" />
                 <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-                <element signature="e#19627#19763#0" expanded="false" />
-                <element signature="e#19715#19757#0" expanded="false" />
+                <element signature="e#19689#19825#0" expanded="false" />
+                <element signature="e#19777#19819#0" expanded="false" />
                 <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-                <element signature="e#19907#20043#0" expanded="false" />
-                <element signature="e#19995#20037#0" expanded="false" />
+                <element signature="e#19969#20105#0" expanded="false" />
+                <element signature="e#20057#20099#0" expanded="false" />
                 <element signature="n#!!block;n#countSigs#0" expanded="false" />
-                <element signature="e#20378#20790#0" expanded="false" />
-                <element signature="e#20454#20784#0" expanded="false" />
-                <element signature="e#20653#20711#0" expanded="false" />
+                <element signature="e#20440#20852#0" expanded="false" />
+                <element signature="e#20516#20846#0" expanded="false" />
+                <element signature="e#20715#20773#0" expanded="false" />
                 <element signature="n#!!block;n#countLabs#0" expanded="false" />
-                <element signature="e#20935#21336#0" expanded="false" />
-                <element signature="e#21011#21330#0" expanded="false" />
-                <element signature="e#21202#21259#0" expanded="false" />
+                <element signature="e#20997#21398#0" expanded="false" />
+                <element signature="e#21073#21392#0" expanded="false" />
+                <element signature="e#21264#21321#0" expanded="false" />
                 <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-                <element signature="e#21481#21641#0" expanded="false" />
-                <element signature="e#21537#21633#0" expanded="false" />
+                <element signature="e#21543#21703#0" expanded="false" />
+                <element signature="e#21599#21695#0" expanded="false" />
                 <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-                <element signature="e#21867#21965#0" expanded="false" />
+                <element signature="e#21929#22027#0" expanded="false" />
                 <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-                <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-                <element signature="n#!!block;n#writeRow#0" expanded="false" />
                 <element signature="n#!!block;n#writeTD#0" expanded="false" />
                 <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+                <element signature="e#24348#24430#0" expanded="false" />
+                <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+                <element signature="e#24905#25065#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VariantExplorerBackup April 21 2015" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/VariantExplorerBackup April 21 2015">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="12780" max-vertical-offset="12870">
-              <caret line="852" column="0" selection-start-line="852" selection-start-column="0" selection-end-line="852" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -153,8 +165,8 @@
       <file leaf-file-name="ClinVarApr.2015.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input/ClinVarApr.2015.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="13305" max-vertical-offset="295155">
-              <caret line="887" column="46" selection-start-line="887" selection-start-column="46" selection-end-line="887" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="295155">
+              <caret line="0" column="432" selection-start-line="0" selection-start-column="432" selection-end-line="0" selection-end-column="432" />
               <folding />
             </state>
           </provider>
@@ -163,28 +175,8 @@
       <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/vendor/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="300">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClinVarMar.2015.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/ClinVarMar.2015.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="111450" max-vertical-offset="284985">
-              <caret line="7430" column="17" selection-start-line="7430" selection-start-column="17" selection-end-line="7430" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VariantExplorer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1200">
-              <caret line="34" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -217,9 +209,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
-    <option name="y" value="172" />
-    <option name="width" value="1867" />
+    <option name="x" value="11" />
+    <option name="y" value="43" />
+    <option name="width" value="1900" />
     <option name="height" value="939" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -274,10 +266,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -285,10 +281,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -354,7 +346,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="172" width="1867" height="939" extended-state="0" />
+    <frame x="11" y="43" width="1900" height="939" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -363,18 +355,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24981631" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20695102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39220464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21924482" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -392,9 +384,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20695102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -452,7 +444,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/VariantExplorer.js</url>
-          <line>496</line>
+          <line>497</line>
           <option name="timeStamp" value="280" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -460,8 +452,18 @@
           <line>257</line>
           <option name="timeStamp" value="283" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/VariantExplorer.js</url>
+          <line>231</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/VariantExplorer.js</url>
+          <line>282</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="284" />
+      <option name="time" value="292" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -491,11 +493,16 @@
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -521,77 +528,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -636,11 +660,16 @@
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -666,77 +695,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -765,11 +811,16 @@
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -795,77 +846,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -894,11 +962,16 @@
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -924,77 +997,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1044,11 +1134,16 @@
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -1074,77 +1169,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1318,30 +1430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendor/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/ClinVarMar.2015.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="111450" max-vertical-offset="284985">
-          <caret line="7430" column="17" selection-start-line="7430" selection-start-column="17" selection-end-line="7430" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/ClinVarApr.2015.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13080" max-vertical-offset="295155">
-          <caret line="887" column="46" selection-start-line="887" selection-start-column="46" selection-end-line="887" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VariantExplorerTemp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.7944515" vertical-offset="2507" max-vertical-offset="7530">
@@ -1358,6 +1446,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/input/ClinVarMar.2015.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="284985">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/VariantExplorerBackup April 21 2015">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12870">
@@ -1366,20 +1462,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/input/ClinVarApr.2015.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="295155">
+          <caret line="0" column="432" selection-start-line="0" selection-start-column="432" selection-end-line="0" selection-end-column="432" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="1598" max-vertical-offset="4215">
-          <caret line="260" column="4" selection-start-line="260" selection-start-column="4" selection-end-line="260" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.79771614" vertical-offset="1881" max-vertical-offset="2700">
+          <caret line="665" column="140" selection-start-line="665" selection-start-column="140" selection-end-line="665" selection-end-column="140" />
           <folding>
             <element signature="e#1011#1175#0" expanded="false" />
             <element signature="e#1406#1470#0" expanded="false" />
             <element signature="e#1550#1790#0" expanded="false" />
             <element signature="e#1865#1942#0" expanded="false" />
+            <element signature="n#!!block;n#selectLab#0" expanded="false" />
+            <element signature="e#2455#2940#0" expanded="false" />
+            <element signature="e#2489#2934#0" expanded="false" />
+            <element signature="e#2787#2924#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
             <element signature="e#3408#3686#0" expanded="false" />
             <element signature="e#3532#3589#0" expanded="false" />
             <element signature="e#3620#3680#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
             <element signature="e#4110#4284#0" expanded="false" />
             <element signature="e#4152#4210#0" expanded="false" />
             <element signature="e#4216#4278#0" expanded="false" />
@@ -1405,77 +1522,94 @@
             <element signature="e#7133#7460#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="e#7943#8059#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
+            <element signature="e#8756#8873#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
+            <element signature="e#9624#10156#0" expanded="false" />
+            <element signature="e#10003#10085#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10256#10372#0" expanded="false" />
-            <element signature="e#10312#10366#0" expanded="false" />
+            <element signature="e#10257#10373#0" expanded="false" />
+            <element signature="e#10313#10367#0" expanded="false" />
+            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
+            <element signature="e#11335#11925#0" expanded="false" />
+            <element signature="e#11512#11621#0" expanded="false" />
+            <element signature="e#11627#11736#0" expanded="false" />
+            <element signature="e#11839#11919#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
-            <element signature="e#12113#12718#0" expanded="false" />
-            <element signature="e#12301#12410#0" expanded="false" />
-            <element signature="e#12416#12525#0" expanded="false" />
-            <element signature="e#12630#12712#0" expanded="false" />
+            <element signature="e#12114#12719#0" expanded="false" />
+            <element signature="e#12302#12411#0" expanded="false" />
+            <element signature="e#12417#12526#0" expanded="false" />
+            <element signature="e#12631#12713#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#12852#12978#0" expanded="false" />
-            <element signature="e#12932#12972#0" expanded="false" />
+            <element signature="e#12853#12979#0" expanded="false" />
+            <element signature="e#12933#12973#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13102#13333#0" expanded="false" />
-            <element signature="e#13177#13327#0" expanded="false" />
-            <element signature="e#13263#13317#0" expanded="false" />
+            <element signature="e#13103#13334#0" expanded="false" />
+            <element signature="e#13178#13328#0" expanded="false" />
+            <element signature="e#13264#13318#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13540#14404#0" expanded="false" />
-            <element signature="e#13645#14398#0" expanded="false" />
-            <element signature="e#13846#14388#0" expanded="false" />
-            <element signature="e#14201#14374#0" expanded="false" />
+            <element signature="e#13541#14405#0" expanded="false" />
+            <element signature="e#13646#14399#0" expanded="false" />
+            <element signature="e#13847#14389#0" expanded="false" />
+            <element signature="e#14202#14375#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14679#14753#0" expanded="false" />
+            <element signature="e#14680#14754#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#14989#15063#0" expanded="false" />
+            <element signature="e#15051#15125#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15252#15964#0" expanded="false" />
-            <element signature="e#15357#15958#0" expanded="false" />
-            <element signature="e#15512#15948#0" expanded="false" />
-            <element signature="e#15576#15934#0" expanded="false" />
-            <element signature="e#15756#15916#0" expanded="false" />
-            <element signature="e#15802#15894#0" expanded="false" />
+            <element signature="e#15314#16026#0" expanded="false" />
+            <element signature="e#15419#16020#0" expanded="false" />
+            <element signature="e#15574#16010#0" expanded="false" />
+            <element signature="e#15638#15996#0" expanded="false" />
+            <element signature="e#15818#15978#0" expanded="false" />
+            <element signature="e#15864#15956#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16163#16837#0" expanded="false" />
-            <element signature="e#16564#16831#0" expanded="false" />
-            <element signature="e#16753#16821#0" expanded="false" />
+            <element signature="e#16225#16899#0" expanded="false" />
+            <element signature="e#16626#16893#0" expanded="false" />
+            <element signature="e#16815#16883#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17007#17707#0" expanded="false" />
-            <element signature="e#17112#17701#0" expanded="false" />
-            <element signature="e#17261#17691#0" expanded="false" />
-            <element signature="e#17325#17677#0" expanded="false" />
-            <element signature="e#17499#17659#0" expanded="false" />
-            <element signature="e#17545#17637#0" expanded="false" />
+            <element signature="e#17069#17769#0" expanded="false" />
+            <element signature="e#17174#17763#0" expanded="false" />
+            <element signature="e#17323#17753#0" expanded="false" />
+            <element signature="e#17387#17739#0" expanded="false" />
+            <element signature="e#17561#17721#0" expanded="false" />
+            <element signature="e#17607#17699#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
+            <element signature="e#17952#18474#0" expanded="false" />
+            <element signature="e#18057#18468#0" expanded="false" />
+            <element signature="e#18203#18458#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18537#18718#0" expanded="false" />
-            <element signature="e#18747#18793#0" expanded="false" />
+            <element signature="e#18599#18780#0" expanded="false" />
+            <element signature="e#18809#18855#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#18973#19056#0" expanded="false" />
+            <element signature="e#19035#19118#0" expanded="false" />
+            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
+            <element signature="e#19370#19488#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19627#19763#0" expanded="false" />
-            <element signature="e#19715#19757#0" expanded="false" />
+            <element signature="e#19689#19825#0" expanded="false" />
+            <element signature="e#19777#19819#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#19907#20043#0" expanded="false" />
-            <element signature="e#19995#20037#0" expanded="false" />
+            <element signature="e#19969#20105#0" expanded="false" />
+            <element signature="e#20057#20099#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20378#20790#0" expanded="false" />
-            <element signature="e#20454#20784#0" expanded="false" />
-            <element signature="e#20653#20711#0" expanded="false" />
+            <element signature="e#20440#20852#0" expanded="false" />
+            <element signature="e#20516#20846#0" expanded="false" />
+            <element signature="e#20715#20773#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#20935#21336#0" expanded="false" />
-            <element signature="e#21011#21330#0" expanded="false" />
-            <element signature="e#21202#21259#0" expanded="false" />
+            <element signature="e#20997#21398#0" expanded="false" />
+            <element signature="e#21073#21392#0" expanded="false" />
+            <element signature="e#21264#21321#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21481#21641#0" expanded="false" />
-            <element signature="e#21537#21633#0" expanded="false" />
+            <element signature="e#21543#21703#0" expanded="false" />
+            <element signature="e#21599#21695#0" expanded="false" />
             <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
-            <element signature="e#21867#21965#0" expanded="false" />
+            <element signature="e#21929#22027#0" expanded="false" />
             <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
-            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
-            <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
+            <element signature="e#24348#24430#0" expanded="false" />
+            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
+            <element signature="e#24905#25065#0" expanded="false" />
           </folding>
         </state>
       </provider>

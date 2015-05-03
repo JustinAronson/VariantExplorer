@@ -248,7 +248,7 @@ function generateSigCountTable (sigCounts, sigArray, secondaryLab, labSpecificFl
     "$('#The" + labNoSpace + secondLabNoSpace + "SigTable tr td').click(function() {" +
     "var td = $(this).closest('td');" +
     "var tr = $(this).closest('tr');";
-    tableGenerater = tableGenerater + "generateSigVariantListForLabPair(tr[0].rowIndex -1, td[0].cellIndex - 2, \"" + primaryLab + "\", \"" + secondaryLab + "\");});"
+    tableGenerater = tableGenerater + "generateSigVariantListForLabPair(tr[0].rowIndex -1, td[0].cellIndex - 2, \"" + primaryLab + "\", \"" + secondaryLab + "\");});";
     tableGenerater = tableGenerater + "</script>";
 
     return tableGenerater;
@@ -412,6 +412,7 @@ function generateSigVariantTables(index1, index2) {
 function generateLabVariantTables(index1, index2) {
     var LabVArray = generateLabVArray(labArray, index1, index2);
     var htmlOutput = "";
+    htmlOutput = htmlOutput + "<a name=\"variantSection\">";
     for ( var i = 0; i < LabVArray.length; i++ ) {
         htmlOutput = htmlOutput + buildVariantTable(LabVArray[i]);
     }
@@ -645,32 +646,33 @@ function buildVariantTable(variant) {
 }
 
 function buildLabInterpTable(variant) {
-
     var htmlOutput = "";
 
-    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"source");
-    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"significance");
-    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"evalDate");
-    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"scv");
-    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"comments");
+    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"source", 0);
+    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"significance", 1);
+    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"evalDate", 0);
+    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"scv", 0);
+    htmlOutput = htmlOutput + writeRow(variant.labInterps ,"comments", 0);
 
     return htmlOutput;
 }
 
-function writeRow (labInterps, propName) {
-
+function writeRow (labInterps, propName, sigFlag) {
     var htmlOutput = "<tr>";
 
     for ( var i = 0; i < labInterps.length; i++) {
         htmlOutput = htmlOutput + writeTD(labInterps);
-        htmlOutput = htmlOutput + labInterps[i][propName];
+        if(sigFlag === 1) {
+            htmlOutput = htmlOutput + labInterps[i][propName] + " (" + labInterps[i].subCondition + " " + labInterps[i].calcCondition + ")";
+        } else {
+            htmlOutput = htmlOutput + labInterps[i][propName];
+        }
         htmlOutput = htmlOutput + "</td>";
     }
 
     htmlOutput = htmlOutput + "</tr>";
 
     return htmlOutput;
-
 }
 
 function writeTD(labInterps) {
@@ -700,7 +702,7 @@ function writeLabTableRow(labName, labCount, labIndex, ltArray) {
     htmlOutput = htmlOutput + labCount;
     htmlOutput = htmlOutput + "</td>";
     for ( var i = 0; i < ltArray[labIndex].length; i++ ) {
-        htmlOutput = htmlOutput + "<td><a title=\"" + labArray[i] + " and " + labName + "\">" + ltArray[labIndex][i] + "</td>";
+        htmlOutput = htmlOutput + "<td><a href=\"#variantSection\" title=\"" + labArray[i] + " and " + labName + "\">" + ltArray[labIndex][i] + "</td>";
     }
     htmlOutput = htmlOutput + "</tr>";
 
