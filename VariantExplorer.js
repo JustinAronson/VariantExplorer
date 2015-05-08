@@ -614,8 +614,8 @@ function createUniqueLabsArray () {
 function generateSelectionBox() {
     clearAreas();
     var htmlOut = "<select onChange=\"selectBoxChanged()\" id=\"varSelect\">";
-    for ( var i = 0; i < vArray.length; i++) {
-        htmlOut = htmlOut + "<option value=\"" + i + "\">" + vArray[i].name + "</option>";
+    for ( var i = 0; i < interpPairsArray.length; i++) {
+        htmlOut = htmlOut + "<option value=\"" + i + "\">" + interpPairsArray[i].name + "</option>";
     }
     htmlOut = htmlOut + "</select>";
 
@@ -626,7 +626,7 @@ function selectBoxChanged() {
     var myselect = document.getElementById("varSelect");
     var selectIndex = myselect.options[myselect.selectedIndex].value;
 
-    var htmlOutput = buildVariantTable(vArray[selectIndex]);
+    var htmlOutput = buildVariantTable(interpPairsArray[selectIndex]);
     $("#variantDisplay").html(htmlOutput);
 
 }
@@ -663,7 +663,7 @@ function writeRow (labInterps, propName, sigFlag) {
     for ( var i = 0; i < labInterps.length; i++) {
         htmlOutput = htmlOutput + writeTD(labInterps);
         if(sigFlag === 1) {
-            htmlOutput = htmlOutput + labInterps[i][propName] + " (" + labInterps[i].subCondition + " " + labInterps[i].calcCondition + ")";
+            htmlOutput = htmlOutput + labInterps[i][propName] + " (" + labInterps[i].subCondition + ")";
         } else {
             htmlOutput = htmlOutput + labInterps[i][propName];
         }
