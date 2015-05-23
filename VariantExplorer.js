@@ -126,7 +126,9 @@ function generateConflictOrConfidenceTable(lab) {
     var tableGenerater = "<Table id=\"TheConfidenceTable\" width = \"80%\" >";
     tableGenerater = tableGenerater + "<tr><td><b>" + "Lab Name" + "</b></td><td><b>" + "Conflict" + "</b></td><td><b>"  + "Confidence Discrepancy" + "</b></td><td><b>" + " Total " + "</b></td></tr>";
     for ( var j = 0; j < cdtArray.length; j++ ) {
-        tableGenerater = tableGenerater + "<tr><td>" + cdtArray[j].name + "</td><td>" + cdtArray[j].conflict + "</td><td>" + cdtArray[j].discrepency + "</td><td>" + cdtArray[j].total + "</td></tr>";
+        if(cdtArray[j].total !== 0) {
+            tableGenerater = tableGenerater + "<tr><td>" + cdtArray[j].name + "</td><td>" + cdtArray[j].conflict + "</td><td>" + cdtArray[j].discrepency + "</td><td>" + cdtArray[j].total + "</td></tr>";
+        }
     }
 
     tableGenerater = tableGenerater + "</table>";

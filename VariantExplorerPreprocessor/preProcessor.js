@@ -14,7 +14,9 @@
 
     var fs = require('fs');
 
-    fs.readFile('ClinVarApr.2015.txt', function (err, fileContents) {
+    fs.readFile('ClinVarMay.2015.txt', function (err, fileContents) {
+
+            console.log('In: readFile');
 
             if(err) {console.log('file error' + err);}
             var fileContentsString = fileContents.toString();
@@ -65,6 +67,8 @@
             fs.writeFile('sigArray.json', sigArrayString, function (err) {
                if(err) return console.log(err); 
             });
+            
+            console.log('Out: readFile');
         } // End of function
         ); // End of readFile
 
@@ -141,20 +145,23 @@
     }
 
     function readFile(lArray, interpPairsArray) {
+        console.log('In: readFile Function');
         lArray.shift();
         while(lArray.length > 0 && lArray.length !== 1) {
             readInterpPair(interpPairsArray, lArray);
             lArray.shift();
          }
 
+         console.log('Out: readFile Function');
     }
     
     function readInterpPair(interpPairsArray,lArray) {
+        console.log('In: readInterpPair Function');
         var fArray = lArray[0].split('\t');
 
         //If a line contains a return character put the line back together
-        while (fArray.length < 25) {
-            if(fArray.length < 24) {
+        while (fArray.length < 27) {
+            if(fArray.length < 26) {
     //               alert("fArray length is less then to 24 when putting lines back together!  Line " + lArray.length + ".");
             }
             lArray.shift();
@@ -164,7 +171,7 @@
             fArray = fArray.concat(restOfLine);
         }
 
-        if(fArray.length !== 25) {
+        if(fArray.length !== 27) {
             alert("fArray length is not equal to 25! Line " + lArray.length + ".");
         }
 
@@ -176,6 +183,7 @@
                 readLabInterp(interpPairsArray, fArray, 1); // Reads the 2nd lab interp.
             }
         }
+        console.log('Out: readInterpPair Function');
 
     }
 
