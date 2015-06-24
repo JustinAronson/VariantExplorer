@@ -14,7 +14,7 @@
 
     var fs = require('fs');
 
-    fs.readFile('ClinVarMay.2015.txt', function (err, fileContents) {
+    fs.readFile('ClinVarJun.2015.txt', function (err, fileContents) {
 
             console.log('In: readFile');
 
@@ -156,7 +156,7 @@
     }
     
     function readInterpPair(interpPairsArray,lArray) {
-        console.log('In: readInterpPair Function');
+        // console.log('In: readInterpPair Function');
         var fArray = lArray[0].split('\t');
 
         //If a line contains a return character put the line back together
@@ -183,7 +183,7 @@
                 readLabInterp(interpPairsArray, fArray, 1); // Reads the 2nd lab interp.
             }
         }
-        console.log('Out: readInterpPair Function');
+        // console.log('Out: readInterpPair Function');
 
     }
 

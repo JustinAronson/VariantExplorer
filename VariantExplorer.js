@@ -36,22 +36,26 @@ function processDiffFile (location) {
     document.getElementById("LabMegaTableButton").onclick = function () {
         clearAreas();
         generateLabCountTable(countLabs(), labArray);
+        ga('send', 'pageview', '/LabMegaTable');
     };
     document.getElementById("LabSearchButton").onclick = function () {
         clearAreas();
-        generateLabSearchButtons()
+        generateLabSearchButtons();
+        ga('send', 'pageview', '/LabSearch');
     };
     document.getElementById("SignificanceSearchButton").onclick = function () {
         clearAreas();
         $("#Area1").html(
             "<Table width = \"80%\"><tr><td>" +
             generateSigCountTable(countSigs(), sigArray, "N/A", 1, interpPairsArray, "N/A") +
-            "</td></tr></Table>"
-        )
+            "</td></tr></Table>");
+        ga('send', 'pageview', '/SignificanceTable');
     };
     document.getElementById("VariantSearchButton").onclick = function () {
         clearAreas();
         generateSelectionBox(interpPairsArray);
+        ga('send', 'pageview', '/VariantSearch');
+
     };
     // This function creates the selection box that contains all of the variant names.
 

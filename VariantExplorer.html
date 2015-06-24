@@ -29,10 +29,21 @@
         background: #00ff13;
     }</style>
 
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-64448558-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
 </head>
 <body>
 
-<div align = "right">Based on May 2015 ClinVar Discrepancies File</div>
+<div align = "right">Based on June 2015 ClinVar Discrepancies File</div>
 
 <h1>Choose an exploration strategy</h1>
 <div id="TopSelectBox">
@@ -41,7 +52,8 @@
     <button type="button" id="SignificanceSearchButton">Search By Significance</button>
     <button type="button" id="VariantSearchButton">Search By Variant</button>
 </div>
-<div id="Area1"></div>
+<div id="Area1">
+</div>
 <div id="Area2"></div>
 <div id="Area3"></div>
 <div id="Area4"></div>
@@ -51,6 +63,7 @@
 <div id="variantSigStatistics"></div>
 <div id="selectBox"></div>
 <div id="variantDisplay"></div>
+
 
 <script src="js/vendor/jquery.js"></script>
 <script src="js/foundation.min.js"></script>
