@@ -633,7 +633,7 @@ function selectBoxChanged() {
     var selectIndex = myselect.options[myselect.selectedIndex].value;
 
     var htmlOutput = buildVariantTable(interpPairsArray[selectIndex]);
-    $("#variantDisplay").html(htmlOutput);
+    $("#Area2").html(htmlOutput);
 
 }
 

@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="3945">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1011#1175#0" expanded="false" />
@@ -140,9 +140,9 @@
                 <element signature="e#21844#21940#0" expanded="false" />
                 <element signature="n#!!block;n#writeTD#0" expanded="false" />
                 <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-                <element signature="e#24587#24669#0" expanded="false" />
+                <element signature="e#24578#24660#0" expanded="false" />
                 <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-                <element signature="e#25144#25304#0" expanded="false" />
+                <element signature="e#25135#25295#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -151,8 +151,8 @@
       <file leaf-file-name="VariantExplorer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6605505" vertical-offset="465" max-vertical-offset="1395">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4793233" vertical-offset="570" max-vertical-offset="1455">
+              <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -448,11 +448,6 @@
           <line>288</line>
           <option name="timeStamp" value="291" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/VariantExplorer.js</url>
-          <line>35</line>
-          <option name="timeStamp" value="293" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="294" />
     </breakpoint-manager>
@@ -574,9 +569,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -719,9 +714,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -870,9 +865,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1006,9 +1001,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1142,9 +1137,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1299,9 +1294,9 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1501,7 +1496,7 @@
     <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="3945">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
@@ -1613,17 +1608,17 @@
             <element signature="e#21844#21940#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24587#24669#0" expanded="false" />
+            <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25144#25304#0" expanded="false" />
+            <element signature="e#25135#25295#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6605505" vertical-offset="465" max-vertical-offset="1395">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4793233" vertical-offset="570" max-vertical-offset="1455">
+          <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
           <folding />
         </state>
       </provider>
