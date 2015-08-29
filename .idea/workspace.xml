@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2f73749-fa34-4e58-90b7-c143da291771" name="Default" comment="" />
+    <list default="true" id="b2f73749-fa34-4e58-90b7-c143da291771" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorer.html" afterPath="$PROJECT_DIR$/VariantExplorer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/interpPairsArray.json" afterPath="$PROJECT_DIR$/input/interpPairsArray.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/labArray.json" afterPath="$PROJECT_DIR$/input/labArray.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorerPreprocessor/preProcessor.js" afterPath="$PROJECT_DIR$/VariantExplorerPreprocessor/preProcessor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/vArray.json" afterPath="$PROJECT_DIR$/input/vArray.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FileReader.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,23 +32,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="VariantExplorer.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VariantExplorer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="3945">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.18891688" vertical-offset="0" max-vertical-offset="2055">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1011#1175#0" expanded="false" />
+                <element signature="e#1252#1384#0" expanded="false" />
+                <element signature="e#1455#1566#0" expanded="false" />
+                <element signature="e#1646#1932#0" expanded="false" />
+                <element signature="e#2007#2135#0" expanded="false" />
                 <element signature="n#!!block;n#selectLab#0" expanded="false" />
                 <element signature="e#2648#3133#0" expanded="false" />
                 <element signature="e#2682#3127#0" expanded="false" />
                 <element signature="e#2980#3117#0" expanded="false" />
                 <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-                <element signature="e#3601#3879#0" expanded="false" />
-                <element signature="e#3725#3782#0" expanded="false" />
-                <element signature="e#3813#3873#0" expanded="false" />
                 <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+                <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+                <element signature="e#4303#4477#0" expanded="false" />
+                <element signature="e#4345#4403#0" expanded="false" />
+                <element signature="e#4409#4471#0" expanded="false" />
+                <element signature="e#4806#5064#0" expanded="false" />
+                <element signature="e#4844#5058#0" expanded="false" />
                 <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
                 <element signature="e#5357#5788#0" expanded="false" />
                 <element signature="e#5395#5782#0" expanded="false" />
@@ -70,12 +84,19 @@
                 <element signature="n#!!block;n#totalCount#0" expanded="false" />
                 <element signature="e#10502#10618#0" expanded="false" />
                 <element signature="e#10558#10612#0" expanded="false" />
+                <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+                <element signature="e#10952#11069#0" expanded="false" />
+                <element signature="e#11210#11374#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
                 <element signature="e#11580#12170#0" expanded="false" />
                 <element signature="e#11757#11866#0" expanded="false" />
                 <element signature="e#11872#11981#0" expanded="false" />
                 <element signature="e#12084#12164#0" expanded="false" />
+                <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+                <element signature="e#12359#12964#0" expanded="false" />
+                <element signature="e#12547#12656#0" expanded="false" />
                 <element signature="e#12662#12771#0" expanded="false" />
+                <element signature="e#12876#12958#0" expanded="false" />
                 <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
                 <element signature="e#13098#13224#0" expanded="false" />
                 <element signature="e#13178#13218#0" expanded="false" />
@@ -127,9 +148,6 @@
                 <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
                 <element signature="e#20214#20350#0" expanded="false" />
                 <element signature="e#20302#20344#0" expanded="false" />
-                <element signature="n#!!block;n#countSigs#0" expanded="false" />
-                <element signature="e#20685#21097#0" expanded="false" />
-                <element signature="e#20761#21091#0" expanded="false" />
                 <element signature="e#20960#21018#0" expanded="false" />
                 <element signature="n#!!block;n#countLabs#0" expanded="false" />
                 <element signature="e#21242#21643#0" expanded="false" />
@@ -138,6 +156,15 @@
                 <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
                 <element signature="e#21788#21948#0" expanded="false" />
                 <element signature="e#21844#21940#0" expanded="false" />
+                <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+                <element signature="e#22184#22292#0" expanded="false" />
+                <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+                <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+                <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+                <element signature="n#!!block;n#writeRow#0" expanded="false" />
+                <element signature="e#23765#24093#0" expanded="false" />
+                <element signature="e#23848#23964#0" expanded="false" />
+                <element signature="e#23970#24044#0" expanded="false" />
                 <element signature="n#!!block;n#writeTD#0" expanded="false" />
                 <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
                 <element signature="e#24578#24660#0" expanded="false" />
@@ -148,11 +175,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VariantExplorer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VariantExplorer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4793233" vertical-offset="570" max-vertical-offset="1455">
-              <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
+            <state vertical-scroll-proportion="-27.5" vertical-offset="0" max-vertical-offset="1455">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trade.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Chord/chord-transitions-master/data/trade.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="33109" max-vertical-offset="55710">
+              <caret line="2231" column="26" selection-start-line="2231" selection-start-column="26" selection-end-line="2231" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -161,7 +198,7 @@
       <file leaf-file-name="ClinVarMay.2015.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input/ClinVarMay.2015.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="313539" max-vertical-offset="314460">
+            <state vertical-scroll-proportion="0.0" vertical-offset="314355" max-vertical-offset="314460">
               <caret line="20957" column="8" selection-start-line="20957" selection-start-column="0" selection-end-line="20958" selection-end-column="0" />
               <folding />
             </state>
@@ -169,6 +206,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,6 +226,7 @@
         <option value="$PROJECT_DIR$/input/ClinVarMar.2015.test2.txt" />
         <option value="$PROJECT_DIR$/input/ClinVarMar.2015.txt" />
         <option value="$PROJECT_DIR$/.idea/VariantExplorerBackup April 21 2015" />
+        <option value="$PROJECT_DIR$/../Chord/chord-transitions-master/data/trade.csv" />
         <option value="$PROJECT_DIR$/VariantExplorer.js" />
         <option value="$PROJECT_DIR$/VariantExplorer.html" />
       </list>
@@ -195,12 +236,12 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="69" />
+    <option name="x" value="36" />
+    <option name="y" value="74" />
     <option name="width" value="1746" />
-    <option name="height" value="1057" />
+    <option name="height" value="940" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -230,8 +271,8 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Justin/WebstormProjects/FileReader/VariantExplorer.html" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/VariantExplorer.html" />
-    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chord/chord-transitions-master/data/trade.csv" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
@@ -252,10 +293,14 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -263,10 +308,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -332,7 +373,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="69" width="1746" height="1057" extended-state="0" />
+    <frame x="36" y="74" width="1746" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -341,18 +382,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24927536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20695102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36421725" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36421725" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -370,9 +411,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20695102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -449,133 +490,11 @@
           <option name="timeStamp" value="291" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="294" />
+      <option name="time" value="296" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="3555">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1011#1175#0" expanded="false" />
-            <element signature="n#!!block;n#selectLab#0" expanded="false" />
-            <element signature="e#2648#3133#0" expanded="false" />
-            <element signature="e#2682#3127#0" expanded="false" />
-            <element signature="e#2980#3117#0" expanded="false" />
-            <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
-            <element signature="n#!!block;n#clearAreas#0" expanded="false" />
-            <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
-            <element signature="e#5357#5788#0" expanded="false" />
-            <element signature="e#5395#5782#0" expanded="false" />
-            <element signature="e#5463#5772#0" expanded="false" />
-            <element signature="e#5494#5623#0" expanded="false" />
-            <element signature="e#5629#5758#0" expanded="false" />
-            <element signature="n#!!block;n#incrementCArray#0" expanded="false" />
-            <element signature="e#5912#6212#0" expanded="false" />
-            <element signature="e#5954#6206#0" expanded="false" />
-            <element signature="n#!!block;n#changeLabArrayToObjects#0" expanded="false" />
-            <element signature="e#6310#6504#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabLArray#0" expanded="false" />
-            <element signature="e#6651#6816#0" expanded="false" />
-            <element signature="e#6760#6810#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabLVariantArray#0" expanded="false" />
-            <element signature="e#6973#7160#0" expanded="false" />
-            <element signature="e#7093#7154#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
-            <element signature="e#7378#7705#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
-            <element signature="e#8188#8304#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigCountTable#0" expanded="false" />
-            <element signature="e#9001#9118#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigVariantListForLabPair#0" expanded="false" />
-            <element signature="e#9869#10401#0" expanded="false" />
-            <element signature="e#10248#10330#0" expanded="false" />
-            <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#10502#10618#0" expanded="false" />
-            <element signature="e#10558#10612#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#11580#12170#0" expanded="false" />
-            <element signature="e#11757#11866#0" expanded="false" />
-            <element signature="e#11872#11981#0" expanded="false" />
-            <element signature="e#12084#12164#0" expanded="false" />
-            <element signature="e#12662#12771#0" expanded="false" />
-            <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#13098#13224#0" expanded="false" />
-            <element signature="e#13178#13218#0" expanded="false" />
-            <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
-            <element signature="e#13348#13579#0" expanded="false" />
-            <element signature="e#13423#13573#0" expanded="false" />
-            <element signature="e#13509#13563#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
-            <element signature="e#13786#14650#0" expanded="false" />
-            <element signature="e#13891#14644#0" expanded="false" />
-            <element signature="e#14092#14634#0" expanded="false" />
-            <element signature="e#14447#14620#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
-            <element signature="e#14925#14999#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
-            <element signature="e#15296#15370#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#15559#16271#0" expanded="false" />
-            <element signature="e#15664#16265#0" expanded="false" />
-            <element signature="e#15819#16255#0" expanded="false" />
-            <element signature="e#15883#16241#0" expanded="false" />
-            <element signature="e#16063#16223#0" expanded="false" />
-            <element signature="e#16109#16201#0" expanded="false" />
-            <element signature="n#!!block;n#generateSigVArrayForLabPair#0" expanded="false" />
-            <element signature="e#16470#17144#0" expanded="false" />
-            <element signature="e#16871#17138#0" expanded="false" />
-            <element signature="e#17060#17128#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
-            <element signature="e#17314#18014#0" expanded="false" />
-            <element signature="e#17419#18008#0" expanded="false" />
-            <element signature="e#17568#17998#0" expanded="false" />
-            <element signature="e#17632#17984#0" expanded="false" />
-            <element signature="e#17806#17966#0" expanded="false" />
-            <element signature="e#17852#17944#0" expanded="false" />
-            <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
-            <element signature="e#18197#18719#0" expanded="false" />
-            <element signature="e#18302#18713#0" expanded="false" />
-            <element signature="e#18448#18703#0" expanded="false" />
-            <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
-            <element signature="e#18844#19025#0" expanded="false" />
-            <element signature="e#19054#19100#0" expanded="false" />
-            <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#19280#19363#0" expanded="false" />
-            <element signature="n#!!block;n#labTableHeader#0" expanded="false" />
-            <element signature="e#19615#19733#0" expanded="false" />
-            <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
-            <element signature="e#19934#20070#0" expanded="false" />
-            <element signature="e#20022#20064#0" expanded="false" />
-            <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#20214#20350#0" expanded="false" />
-            <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
-            <element signature="e#20960#21018#0" expanded="false" />
-            <element signature="n#!!block;n#countLabs#0" expanded="false" />
-            <element signature="e#21242#21643#0" expanded="false" />
-            <element signature="e#21318#21637#0" expanded="false" />
-            <element signature="e#21509#21566#0" expanded="false" />
-            <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
-            <element signature="e#21788#21948#0" expanded="false" />
-            <element signature="e#21844#21940#0" expanded="false" />
-            <element signature="n#!!block;n#writeTD#0" expanded="false" />
-            <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
-            <element signature="e#24578#24660#0" expanded="false" />
-            <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#25135#25295#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="1200">
@@ -604,17 +523,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2400">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -644,12 +569,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -701,9 +633,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -712,6 +641,15 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
@@ -755,17 +693,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="7680">
           <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -795,12 +739,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -852,9 +803,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -863,6 +811,15 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
@@ -891,17 +848,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -931,12 +894,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -988,9 +958,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -999,6 +966,15 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
@@ -1027,17 +1003,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4380">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -1067,12 +1049,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -1124,9 +1113,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -1135,6 +1121,15 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
@@ -1184,17 +1179,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3600">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -1224,12 +1225,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -1281,9 +1289,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -1292,6 +1297,15 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
@@ -1493,22 +1507,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Chord/chord-transitions-master/data/trade.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="33094" max-vertical-offset="55710">
+          <caret line="2231" column="26" selection-start-line="2231" selection-start-column="26" selection-end-line="2231" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.5" vertical-offset="0" max-vertical-offset="1455">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VariantExplorer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="246" max-vertical-offset="3945">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18891688" vertical-offset="0" max-vertical-offset="2055">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="e#1011#1175#0" expanded="false" />
+            <element signature="e#1252#1384#0" expanded="false" />
+            <element signature="e#1455#1566#0" expanded="false" />
+            <element signature="e#1646#1932#0" expanded="false" />
+            <element signature="e#2007#2135#0" expanded="false" />
             <element signature="n#!!block;n#selectLab#0" expanded="false" />
             <element signature="e#2648#3133#0" expanded="false" />
             <element signature="e#2682#3127#0" expanded="false" />
             <element signature="e#2980#3117#0" expanded="false" />
             <element signature="n#!!block;n#readJSONArray#0" expanded="false" />
-            <element signature="e#3601#3879#0" expanded="false" />
-            <element signature="e#3725#3782#0" expanded="false" />
-            <element signature="e#3813#3873#0" expanded="false" />
             <element signature="n#!!block;n#clearAreas#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictOrConfidenceTable#0" expanded="false" />
+            <element signature="e#4303#4477#0" expanded="false" />
+            <element signature="e#4345#4403#0" expanded="false" />
+            <element signature="e#4409#4471#0" expanded="false" />
+            <element signature="e#4806#5064#0" expanded="false" />
+            <element signature="e#4844#5058#0" expanded="false" />
             <element signature="n#!!block;n#generateConflictDiscrepencyArray#0" expanded="false" />
             <element signature="e#5357#5788#0" expanded="false" />
             <element signature="e#5395#5782#0" expanded="false" />
@@ -1538,12 +1574,19 @@
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
             <element signature="e#10502#10618#0" expanded="false" />
             <element signature="e#10558#10612#0" expanded="false" />
+            <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
+            <element signature="e#10952#11069#0" expanded="false" />
+            <element signature="e#11210#11374#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
             <element signature="e#11580#12170#0" expanded="false" />
             <element signature="e#11757#11866#0" expanded="false" />
             <element signature="e#11872#11981#0" expanded="false" />
             <element signature="e#12084#12164#0" expanded="false" />
+            <element signature="n#!!block;n#generateConflictDiscrepenciesTableArray#0" expanded="false" />
+            <element signature="e#12359#12964#0" expanded="false" />
+            <element signature="e#12547#12656#0" expanded="false" />
             <element signature="e#12662#12771#0" expanded="false" />
+            <element signature="e#12876#12958#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
             <element signature="e#13098#13224#0" expanded="false" />
             <element signature="e#13178#13218#0" expanded="false" />
@@ -1595,9 +1638,6 @@
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
             <element signature="e#20214#20350#0" expanded="false" />
             <element signature="e#20302#20344#0" expanded="false" />
-            <element signature="n#!!block;n#countSigs#0" expanded="false" />
-            <element signature="e#20685#21097#0" expanded="false" />
-            <element signature="e#20761#21091#0" expanded="false" />
             <element signature="e#20960#21018#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="e#21242#21643#0" expanded="false" />
@@ -1606,20 +1646,21 @@
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
             <element signature="e#21788#21948#0" expanded="false" />
             <element signature="e#21844#21940#0" expanded="false" />
+            <element signature="n#!!block;n#generateSelectionBox#0" expanded="false" />
+            <element signature="e#22184#22292#0" expanded="false" />
+            <element signature="n#!!block;n#selectBoxChanged#0" expanded="false" />
+            <element signature="n#!!block;n#buildVariantTable#0" expanded="false" />
+            <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
+            <element signature="n#!!block;n#writeRow#0" expanded="false" />
+            <element signature="e#23765#24093#0" expanded="false" />
+            <element signature="e#23848#23964#0" expanded="false" />
+            <element signature="e#23970#24044#0" expanded="false" />
             <element signature="n#!!block;n#writeTD#0" expanded="false" />
             <element signature="n#!!block;n#writeSigTableRow#0" expanded="false" />
             <element signature="e#24578#24660#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
             <element signature="e#25135#25295#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VariantExplorer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4793233" vertical-offset="570" max-vertical-offset="1455">
-          <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
-          <folding />
         </state>
       </provider>
     </entry>
