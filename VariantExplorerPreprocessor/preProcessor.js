@@ -14,7 +14,7 @@
 
     var fs = require('fs');
 
-    fs.readFile('../input/ClinVarAug.2015.txt', function (err, fileContents) {
+    fs.readFile('../input/ClinVarOct.2015.txt', function (err, fileContents) {
 
             console.log('In: readFile');
 
