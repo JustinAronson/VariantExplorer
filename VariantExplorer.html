@@ -91,8 +91,9 @@ white-space: nowrap;
 <div align = "right" class="padding-thin hidden-xs hidden-sm">Based on November 2015 ClinVar Discrepancies File</div>
 
 <ul class="list-inline main-nav hidden-xs hidden-sm">
-    <li><a href="/" class="btn btn-link">VariantExplorer</a></li>
-    <li><a href="https://www.clinicalgenome.org/" class="btn btn-link"><i class="glyphicon glyphicon-new-window "></i> ClinGen Website</a></li>
+    <li><a href="#home" class="btn btn-link" id="HomeButton" title="VariantExplorer Home">Home</a></li>
+    <li><a href="#about" class="btn btn-link" id="AboutButton" title="About VariantExplorer">About VariantExplorer</a></li>
+    <li><a href="https://www.clinicalgenome.org/" class="btn btn-link" title="ClinGen - Clinical Genome Resource Website"><i class="glyphicon glyphicon-new-window "></i> ClinGen Website</a></li>
 </ul>
     </div>
 <div class="text-center margin-bottom-wide col-xs-12">
@@ -104,23 +105,8 @@ white-space: nowrap;
   </div>
 </div>
     </div>
-<div id="Area1">
-  <div class="container"><h1 align = "center">Welcome to Variant Explorer!</h1>  <p>The goal of VariantExplorer is to facilitate identification of clinical significance interpretation discrepancies in ClinVar (<a href="http://www.ncbi.nlm.nih.gov/clinvar/" target="_blank">http://www.ncbi.nlm.nih.gov/clinvar/</a>), a submitter-driven repository that archives reports of the relationships among genomic variants and phenotypes submitted by clinical laboratories, researchers, clinicians, expert panels, practice guidelines, and other groups or organizations. Given the large number of submitters to ClinVar, many variants have interpretations from multiple submitters and those interpretations may not always agree. </p>
-<p>By displaying how the full set of variant interpretations from a specific submitter compares to all other submitters (or to another specific submitter), VariantExplorer helps users view the types and levels of discrepancies in ClinVar. The submitter-specific Clinical Significance Breakdown Tables (seen below) displays pair-wise counts of discrepant interpretations, including confidence discrepancies (such as Benign vs Likely benign or Pathogenic vs Likely pathogenic). For example, the table below indicates there are 12 variants in ClinVar interpreted as Likely benign by Submitter A and interpreted as Uncertain significance by Submitter B. By displaying the discrepancies in this manner, VariantExplorer hopes to facilitate resolution of interpretation discrepancies.</p>
-    
-   <div class="text-center"> <h3 class="text-center margin-bottom-none">Clinical Significance Breakdown Table example</h3>
-    <img src="img/chart.jpg" class="img-responsive " alt="Clinical Significance Breakdown Table example" /></div>
-   <p><br /><strong>The discrepancy data in VariantExplorer can be viewed from four different approaches:</strong></p> 
-   
-     <ul class="list-group">
-<li class="list-group-item"><h4 class="margin-none">Search By Submitter</h4>This option allows users to view all discrepancies with regard to a specific ClinVar submitter. Selecting a ClinVar submitter navigates to a Submitter by Submitter Summary table of all submitters with interpretations that are discrepant with the submitter of interest. The discrepancy counts are broken into Confidence Discrepancy and Conflict. Below the summary table are the Clinical Significance Breakdown Tables of each submitter-submitter pair listed in the Submitter by Submitter Summary table. Clicking the counts in any Clinical Significance Breakdown Table displays the variants with clinical significance discrepancies and summary information about each submission, such as asserted condition and date last evaluated. Selecting the variant name will direct a user to the variant page in ClinVar.  </li> 
-<li class="list-group-item"><h4 class="margin-none">Show Submitter Mega Table</h4>This option allows users to view discrepancy counts between all submitters in ClinVar. Each submitter is assigned a lab number and hovering over a lab number or discrepancy count displays the full name of that ClinVar submitter. Clicking the discrepancy counts in any cell will display those variants of interest below the table. </li>
-<li class="list-group-item"><h4 class="margin-none">Search By Significance</h4>A Clinical Significance Breakdown Table of all discrepancies in ClinVar</li>
-<li class="list-group-item"><h4 class="margin-none">Search By Variant</h4>A dropdown list of all variants in ClinVar with clinical significance discrepancies</li>
-</ul>
-
-</div>
-  </div>
+<div id="Home"><div class="container"><h1 align = "center">Welcome to VariantExplorer!</h1>  <p>The goal of VariantExplorer is to facilitate identification of clinical significance interpretation discrepancies in ClinVar (<a href="http://www.ncbi.nlm.nih.gov/clinvar/" target="_blank">http://www.ncbi.nlm.nih.gov/clinvar/</a>), a submitter-driven repository that archives reports of the relationships among genomic variants and phenotypes submitted by clinical laboratories, researchers, clinicians, expert panels, practice guidelines, and other groups or organizations. Given the large number of submitters to ClinVar, many variants have interpretations from multiple submitters and those interpretations may not always agree. </p><p>By displaying how the full set of variant interpretations from a specific submitter compares to all other submitters (or to another specific submitter), VariantExplorer helps users view the types and levels of discrepancies in ClinVar. The submitter-specific Clinical Significance Breakdown Tables (seen below) displays pair-wise counts of discrepant interpretations, including confidence discrepancies (such as Benign vs Likely benign or Pathogenic vs Likely pathogenic). For example, the table below indicates there are 12 variants in ClinVar interpreted as Likely benign by Submitter A and interpreted as Uncertain significance by Submitter B. By displaying the discrepancies in this manner, VariantExplorer hopes to facilitate resolution of interpretation discrepancies.</p><div class="text-center"> <h3 class="text-center margin-bottom-none">Clinical Significance Breakdown Table example</h3><img src="img/chart.jpg" class="img-responsive " alt="Clinical Significance Breakdown Table example" /></div><p><br /><strong>The discrepancy data in VariantExplorer can be viewed from four different approaches:</strong></p><ul class="list-group"><li class="list-group-item"><h4 class="margin-none">Search By Submitter</h4>This option allows users to view all discrepancies with regard to a specific ClinVar submitter. Selecting a ClinVar submitter navigates to a Submitter by Submitter Summary table of all submitters with interpretations that are discrepant with the submitter of interest. The discrepancy counts are broken into Confidence Discrepancy and Conflict. Below the summary table are the Clinical Significance Breakdown Tables of each submitter-submitter pair listed in the Submitter by Submitter Summary table. Clicking the counts in any Clinical Significance Breakdown Table displays the variants with clinical significance discrepancies and summary information about each submission, such as asserted condition and date last evaluated. Selecting the variant name will direct a user to the variant page in ClinVar.  </li> <li class="list-group-item"><h4 class="margin-none">Show Submitter Mega Table</h4>This option allows users to view discrepancy counts between all submitters in ClinVar. Each submitter is assigned a lab number and hovering over a lab number or discrepancy count displays the full name of that ClinVar submitter. Clicking the discrepancy counts in any cell will display those variants of interest below the table. </li><li class="list-group-item"><h4 class="margin-none">Search By Significance</h4>A Clinical Significance Breakdown Table of all discrepancies in ClinVar</li><li class="list-group-item"><h4 class="margin-none">Search By Variant</h4>A dropdown list of all variants in ClinVar with clinical significance discrepancies</li></ul></div></div>
+<div id="Area1"></div>
 <div id="Area2"></div>
 <div id="Area3"></div>
 <div id="Area4"></div>
@@ -131,7 +117,7 @@ white-space: nowrap;
 <div id="selectBox"></div>
 <div id="variantDisplay"></div>
 
-<div class="container text-center small"><hr />Based on November 2015 ClinVar Discrepancies File - <a href="https://www.clinicalgenome.org/" class=""><i class="glyphicon glyphicon-new-window "></i> ClinGen Website</a><br> &copy; VariantExplorer</div>
+<div class="container text-center small"><hr />Based on November 2015 ClinVar Discrepancies File - <a href="https://www.clinicalgenome.org/" class="" title="ClinGen - Clinical Genome Resource Website"><i class="glyphicon glyphicon-new-window "></i> ClinGen Website</a><br> &copy; VariantExplorer</div>
 <script src="js/vendor/jquery.js"></script>
 <script src="js/foundation.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
