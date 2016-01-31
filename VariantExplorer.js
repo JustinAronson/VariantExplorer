@@ -38,6 +38,21 @@ function processDiffFile (location) {
         generateLabCountTable(countLabs(), labArray);
         ga('send', 'pageview', '/LabMegaTable');
     };
+    window.onload = function () {
+        clearAreas();
+        generateHome();
+        ga('send', 'pageview', '/');
+    };
+    document.getElementById("HomeButton").onclick = function () {
+        clearAreas();
+        generateHome();
+        ga('send', 'pageview', '/');
+    };
+    document.getElementById("AboutButton").onclick = function () {
+        clearAreas();
+        generateAbout();
+        ga('send', 'pageview', '/About');
+    };
     document.getElementById("LabSearchButton").onclick = function () {
         clearAreas();
         generateLabSearchButtons();
@@ -46,9 +61,9 @@ function processDiffFile (location) {
     document.getElementById("SignificanceSearchButton").onclick = function () {
         clearAreas();
         $("#Area1").html(
-            "<Table width = \"80%\"><tr><td>" +
+            "<div class=\"container-fluid \"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">Search By Significance</h4>A Clinical Significance Breakdown Table of all discrepancies in ClinVar <hr /></div> </div><div class=\"row \"><div class=\"col-sm-12 \">" +
             generateSigCountTable(countSigs(), sigArray, "N/A", 1, interpPairsArray, "N/A") +
-            "</td></tr></Table>");
+            "</td></tr></div></div></div>");
         ga('send', 'pageview', '/SignificanceTable');
     };
     document.getElementById("VariantSearchButton").onclick = function () {
@@ -82,10 +97,10 @@ function selectLab(lab) {
             }
         }
     }
-    $("#Area1").html("Laboratory: " + lab);
-    $("#Area2").html("<br><b>Lab by Lab Summary </b><br><br>");
-    $("#Area3").html(generateConflictOrConfidenceTable(lab));
-    $("#Area4").html("<br><b>Significance Break Downs</b><Table id=\"TheLabSpecificTable\" width = \"80%\" ><tr><td> </td><td> All Other Labs: </td></tr><tr><td>" + lab + "</td><td>" + tableGenerater + "</td></tr></table>");
+    $("#Area1").html("<div class=\" container \"><h2>Laboratory: " + lab + "<h2></div>");
+    $("#Area2").html("<div class=\" container \"><h4>Lab by Lab Summary </h4></div>");
+    $("#Area3").html("<div class=\" container \">" + generateConflictOrConfidenceTable(lab) + "</div>");
+    $("#Area4").html("<div class=\" container \"><h4>Significance Break Downs</h4><Table id=\"TheLabSpecificTable\" class=\" table table-condensed  table-striped \" ><tr><td> </td><td> All Other Labs: </td></tr><tr><td>" + lab + "</td><td>" + tableGenerater + "</td></tr></table></div>");
 }
 
 function readJSONArray(url) {
@@ -107,6 +122,7 @@ function readJSONArray(url) {
 }
 
 function clearAreas(){
+    $("#Home").html("");
     $("#Area1").html("");
     $("#Area2").html("");
     $("#Area3").html("");
@@ -127,7 +143,7 @@ function generateConflictOrConfidenceTable(lab) {
             totalConfidence = totalConfidence + 1;
         }
     }
-    var tableGenerater = "<Table id=\"TheConfidenceTable\" width = \"80%\" >";
+    var tableGenerater = "<Table id=\"TheConfidenceTable\" class=\" table table-condensed  table-striped table-bordered \" >";
     tableGenerater = tableGenerater + "<tr><td><b>" + "Lab Name" + "</b></td><td><b>" + "Conflict" + "</b></td><td><b>"  + "Confidence Discrepancy" + "</b></td><td><b>" + " Total " + "</b></td></tr>";
     for ( var j = 0; j < cdtArray.length; j++ ) {
         if(cdtArray[j].total !== 0) {
@@ -204,16 +220,31 @@ function generateLabLVariantArray(lab) {
     return labLVArray;
 }
 
+function generateAbout() {
+    clearAreas();
+    var htmlOutput = "";
+    htmlOutput = "<div class=\"container\"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">About</h4>About Text here</div></div>"
+    $("#Area1").html(htmlOutput);
+}
+
+function generateHome() {
+    clearAreas();
+    var htmlOutput = "";
+    htmlOutput = "<div class=\"container\"><h1 align = \"center\">Welcome to VariantExplorer!</h1>  <p>The goal of VariantExplorer is to facilitate identification of clinical significance interpretation discrepancies in ClinVar (<a href=\"http://www.ncbi.nlm.nih.gov/clinvar/\" target=\"_blank\">http://www.ncbi.nlm.nih.gov/clinvar/</a>), a submitter-driven repository that archives reports of the relationships among genomic variants and phenotypes submitted by clinical laboratories, researchers, clinicians, expert panels, practice guidelines, and other groups or organizations. Given the large number of submitters to ClinVar, many variants have interpretations from multiple submitters and those interpretations may not always agree. </p><p>By displaying how the full set of variant interpretations from a specific submitter compares to all other submitters (or to another specific submitter), VariantExplorer helps users view the types and levels of discrepancies in ClinVar. The submitter-specific Clinical Significance Breakdown Tables (seen below) displays pair-wise counts of discrepant interpretations, including confidence discrepancies (such as Benign vs Likely benign or Pathogenic vs Likely pathogenic). For example, the table below indicates there are 12 variants in ClinVar interpreted as Likely benign by Submitter A and interpreted as Uncertain significance by Submitter B. By displaying the discrepancies in this manner, VariantExplorer hopes to facilitate resolution of interpretation discrepancies.</p><div class=\"text-center\"> <h3 class=\"text-center margin-bottom-none\">Clinical Significance Breakdown Table example</h3><img src=\"img/chart.jpg\" class=\"img-responsive \" alt=\"Clinical Significance Breakdown Table example\" /></div><p><br /><strong>The discrepancy data in VariantExplorer can be viewed from four different approaches:</strong></p><ul class=\"list-group\"><li class=\"list-group-item\"><h4 class=\"margin-none\">Search By Submitter</h4>This option allows users to view all discrepancies with regard to a specific ClinVar submitter. Selecting a ClinVar submitter navigates to a Submitter by Submitter Summary table of all submitters with interpretations that are discrepant with the submitter of interest. The discrepancy counts are broken into Confidence Discrepancy and Conflict. Below the summary table are the Clinical Significance Breakdown Tables of each submitter-submitter pair listed in the Submitter by Submitter Summary table. Clicking the counts in any Clinical Significance Breakdown Table displays the variants with clinical significance discrepancies and summary information about each submission, such as asserted condition and date last evaluated. Selecting the variant name will direct a user to the variant page in ClinVar.  </li> <li class=\"list-group-item\"><h4 class=\"margin-none\">Show Submitter Mega Table</h4>This option allows users to view discrepancy counts between all submitters in ClinVar. Each submitter is assigned a lab number and hovering over a lab number or discrepancy count displays the full name of that ClinVar submitter. Clicking the discrepancy counts in any cell will display those variants of interest below the table. </li><li class=\"list-group-item\"><h4 class=\"margin-none\">Search By Significance</h4>A Clinical Significance Breakdown Table of all discrepancies in ClinVar</li><li class=\"list-group-item\"><h4 class=\"margin-none\">Search By Variant</h4>A dropdown list of all variants in ClinVar with clinical significance discrepancies</li></ul></div>"
+    $("#Home").html(htmlOutput);
+}
+
 function generateLabSearchButtons() {
     clearAreas();
     var htmlOutput = "";
     var uniqueLabArray = createUniqueLabsArray(vArray);
 
     for( var i = 0; i < uniqueLabArray.length; i++ ) {
-        htmlOutput = htmlOutput + "<button style=\"background-color:deepskyblue; width: 48%; height: 75\" button type=\"button\" id=\"";
+        htmlOutput = htmlOutput + "<div class=\"col-md-6 padding-thin \"><button class=\"btn btn-primary btn-block btn-text \" button type=\"button\" id=\"";
         htmlOutput = htmlOutput + uniqueLabArray[i] + "\" onclick=\"selectLab('" + uniqueLabArray[i] + "')\">" + uniqueLabArray[i];
-        htmlOutput = htmlOutput + "</button>&nbsp"
+        htmlOutput = htmlOutput + "</button></div>"
     }
+    htmlOutput = "<div class=\"container\"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">Search By Submitter</h4>This option allows users to view all discrepancies with regard to a specific ClinVar submitter. Selecting a ClinVar submitter navigates to a Submitter by Submitter Summary table of all submitters with interpretations that are discrepant with the submitter of interest. The discrepancy counts are broken into Confidence Discrepancy and Conflict. Below the summary table are the Clinical Significance Breakdown Tables of each submitter-submitter pair listed in the Submitter by Submitter Summary table. Clicking the counts in any Clinical Significance Breakdown Table displays the variants with clinical significance discrepancies and summary information about each submission, such as asserted condition and date last evaluated. Selecting the variant name will direct a user to the variant page in ClinVar. <hr /></div> </div><div class=\"row \">" + htmlOutput + "</div></div>"
     $("#Area1").html(htmlOutput);
 }
 
@@ -222,7 +253,7 @@ function generateSigTableForLabPair(lab1, lab2) {
     var sigCount = countSigs();
     var sigArray = Object.getOwnPropertyNames(sigCount);
     var stArray = generateSigTableArrayForLabPair(sigArray, labArray, lab1, lab2);
-    var tableGenerater = "<Table id=\"TheStatisticsTable\" width = \"100%\" >";
+    var tableGenerater = "<Table id=\"TheStatisticsTable\"  class=\"table table-condensed table-bordered \" >";
     tableGenerater = tableGenerater + sigTableHeader(sigArray);
 
     for (var i = 0; i < sigArray.length; i++) {
@@ -240,7 +271,7 @@ function generateSigCountTable (sigCounts, sigArray, secondaryLab, labSpecificFl
     var tableGenerater = "";
     var labNoSpace = primaryLab.replace(/[';\s&,\/()]+/g, "");
     var secondLabNoSpace = secondaryLab.replace(/[';\s&,\/()]+/g, "");
-    tableGenerater = "<Table id=\"The" + labNoSpace + secondLabNoSpace + "SigTable\" width = \"80%\" >";
+    tableGenerater = "<Table id=\"The" + labNoSpace + secondLabNoSpace + "SigTable\" class=\" table table-condensed  table-striped table-bordered \" >";
     tableGenerater = tableGenerater + sigTableHeader(sigArray);
 
     for (var i = 0; i < sigArray.length; i++) {
@@ -288,14 +319,14 @@ function totalCount(stArray) {
 function generateLabCountTable (labCounts, labArray) {
     clearAreas();
     var ltArray = generateLabTable(labArray);
-    var tableGenerater = "<Table id = \"TheLabMegaTable\" width = \"100%\" >";
+    var tableGenerater = "<div class=\"container-fluid row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">Show Submitter Mega Table</h4>This option allows users to view discrepancy counts between all submitters in ClinVar. Each submitter is assigned a lab number and hovering over a lab number or discrepancy count displays the full name of that ClinVar submitter. Clicking the discrepancy counts in any cell will display those variants of interest below the table. <hr /></div> </div><div class=\"table-responsive container-fluid \"><table id = \"TheLabMegaTable\" class=\" table table-condensed  table-striped table-bordered \" >";
     tableGenerater = tableGenerater + labTableHeader(labArray);
 
     for ( var i = 0; i < labArray.length; i++ ) {
         tableGenerater = tableGenerater + writeLabTableRow(labArray[i], labCounts[labArray[i]], i, ltArray);
 
     }
-    tableGenerater = tableGenerater + "</Table>";
+    tableGenerater = tableGenerater + "</table></div>";
 
     $("#Area1").html(tableGenerater);
 
@@ -418,11 +449,11 @@ function generateSigVariantTables(index1, index2) {
 function generateLabVariantTables(index1, index2) {
     var LabVArray = generateLabVArray(labArray, index1, index2);
     var htmlOutput = "";
-    htmlOutput = htmlOutput + "<a name=\"variantSection\">";
+    htmlOutput = htmlOutput + "<div id=\"variantSection\" >";
     for ( var i = 0; i < LabVArray.length; i++ ) {
         htmlOutput = htmlOutput + buildVariantTable(LabVArray[i]);
     }
-
+    htmlOutput = htmlOutput + "</div>";
     $("#labVariants").html(htmlOutput);
 }
 
@@ -521,21 +552,21 @@ function addHighlighter() {
 }
 
 function sigTableHeader(sigArray) {
-    var headerGenerater = "<tr><td>Significance Name</td><td>Significance Variant Count</td>";
+    var headerGenerater = "<thead><tr><th>Significance Name</th><th>Significance Variant Count</th>";
     for( i = 0; i < sigArray.length; i++ ) {
-        headerGenerater = headerGenerater + "<td>" + sigArray[i] + "</td>";
+        headerGenerater = headerGenerater + "<th>" + sigArray[i] + "</th>";
     }
-    headerGenerater = headerGenerater + "</tr>";
+    headerGenerater = headerGenerater + "</tr></thead>";
     return headerGenerater;
 
 }
 
 function labTableHeader(labArray) {
-    var headerGenerater = "<tr><td>Lab Name</td><td>Lab #</td><td>Lab Variant Count</td>";
+    var headerGenerater = "<thead><tr><th>Lab Name</th><th>Lab #</th><th>Lab Variant Count</th>";
     for( i = 0; i < labArray.length; i++ ) {
-        headerGenerater = headerGenerater + "<td><a title=\"" + labArray[i] + "\">Lab " + ( i + 1 ) + "</td>";
+        headerGenerater = headerGenerater + "<th><span data-toggle=\"tooltip\" data-placement=\"top\" title=\"" + labArray[i] + "\">Lab " + ( i + 1 ) + "</span></th>";
     }
-    headerGenerater = headerGenerater + "</tr>";
+    headerGenerater = headerGenerater + "</tr></thead>";
     return headerGenerater;
 
 }
@@ -619,11 +650,11 @@ function createUniqueLabsArray () {
 
 function generateSelectionBox() {
     clearAreas();
-    var htmlOut = "<select onChange=\"selectBoxChanged()\" id=\"varSelect\">";
+    var htmlOut = "<div class=\" container \"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">Search By Variant</h4>A dropdown list of all variants in ClinVar with clinical significance discrepancies<hr /></div> </div><div class=\"row \"><select class=\"form-control \" onChange=\"selectBoxChanged()\" id=\"varSelect\">";
     for ( var i = 0; i < interpPairsArray.length; i++) {
         htmlOut = htmlOut + "<option value=\"" + i + "\">" + interpPairsArray[i].name + "</option>";
     }
-    htmlOut = htmlOut + "</select>";
+    htmlOut = htmlOut + "</select></div></div>";
 
     $("#Area1").html(htmlOut);
 }
@@ -633,14 +664,14 @@ function selectBoxChanged() {
     var selectIndex = myselect.options[myselect.selectedIndex].value;
 
     var htmlOutput = buildVariantTable(interpPairsArray[selectIndex]);
-    $("#Area2").html(htmlOutput);
+    $("#Area2").html("<div class=\" container \">" + htmlOutput + "</div>");
 
 }
 
 function buildVariantTable(variant) {
-    var htmlOutput = "<Table width = \"100%\" >";
+    var htmlOutput = "<Table class=\"table table-condensed table-bordered  table-striped \" >";
     htmlOutput = htmlOutput + "<tr>";
-    htmlOutput = htmlOutput + "<a href=\"http://www.ncbi.nlm.nih.gov/clinvar/?term=22144[" + variant.alleleID + "]\">" + variant.transcript + variant.name + "</a>";
+    htmlOutput = htmlOutput + "<h3><a href=\"http://www.ncbi.nlm.nih.gov/clinvar/?term=" + variant.name + "\" target=\"_blank\">" + variant.transcript + variant.name + " <i class=\"glyphicon glyphicon-new-window \"></i></a></h3>";
     htmlOutput = htmlOutput + "</tr>";
 
     htmlOutput = htmlOutput + "<tr>";
@@ -698,6 +729,8 @@ function writeSigTableRow(sigName, sigCount, sigIndex, stArray) {
 
     return htmlOutput;
 }
+
+
 
 function writeLabTableRow(labName, labCount, labIndex, ltArray) {
     var htmlOutput = "<tr><td>";
