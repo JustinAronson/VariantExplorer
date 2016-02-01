@@ -1,0 +1,1170 @@
+catDiff,Lab 1,Lab 2, Variant Count
+Likely benign - Uncertain significance,Department of Ophthalmology and Visual Sciences Kyoto University,Emory Genetics Laboratory, 3
+Pathogenic - Benign,Emory Genetics Laboratory,OMIM, 43
+Likely benign - Benign,Emory Genetics Laboratory,Department of Ophthalmology and Visual Sciences Kyoto University, 2
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,OMIM, 63
+Pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 49
+Pathogenic - Likely benign,Department of Ophthalmology and Visual Sciences Kyoto University,OMIM, 3
+Likely benign - Benign,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 210
+Uncertain significance - Benign,Emory Genetics Laboratory,LabCorp, 8
+Uncertain significance - Likely benign,Genetic Services Laboratory  University of Chicago,LabCorp, 2
+Pathogenic - Likely pathogenic,LabCorp,GeneReviews, 1
+Pathogenic - Likely pathogenic,Counsyl,LabCorp, 5
+Pathogenic - Likely pathogenic,Counsyl,OMIM, 132
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 123
+Likely benign - Benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 252
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 6
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 121
+Uncertain significance - Likely benign,Emory Genetics Laboratory,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 9
+Likely benign - Benign,Emory Genetics Laboratory,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 95
+Likely pathogenic - Benign,GeneDx,LabCorp, 5
+Likely pathogenic - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 7
+Likely pathogenic - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 6
+Likely benign - Benign,GeneDx,LabCorp, 45
+Likely benign - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 55
+Uncertain significance - Likely benign,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 24
+Pathogenic - Benign,GeneDx,Emory Genetics Laboratory, 1
+Likely pathogenic - Pathogenic,Counsyl,GeneDx, 8
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,GeneDx, 17
+Pathogenic - Likely pathogenic,GeneReviews,OMIM, 10
+Uncertain significance - Likely pathogenic,Emory Genetics Laboratory,GeneDx, 9
+Pathogenic - Likely pathogenic,Counsyl,Emory Genetics Laboratory, 21
+Pathogenic - Uncertain significance,GeneDx,GeneReviews, 3
+Pathogenic - Likely pathogenic,Emory Genetics Laboratory,OMIM, 13
+Pathogenic - Likely pathogenic,Counsyl,GeneReviews, 11
+Benign - Uncertain significance,GeneReviews,GeneDx, 1
+Likely pathogenic - Pathogenic,Counsyl,Emory Genetics Laboratory, 13
+Uncertain significance - Likely pathogenic,Emory Genetics Laboratory,Counsyl, 1
+Likely benign - Benign,GeneDx,Genetic Services Laboratory  University of Chicago, 235
+Benign - Likely benign,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 397
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 87
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 110
+Pathogenic - Likely pathogenic,Genetic Services Laboratory  University of Chicago,Department of Genetics Robert DEBRE University Hospital, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 122
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 3
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 186
+Pathogenic - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 54
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 2
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 7
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 13
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 8
+Likely pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 15
+Likely pathogenic - Uncertain significance,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,LabCorp, 1
+Likely pathogenic - Uncertain significance,GeneDx,LabCorp, 16
+Pathogenic - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 18
+Pathogenic - Likely pathogenic,GeneDx,OMIM, 13
+Pathogenic - Likely pathogenic,ClinVar Staff  National Center for Biotechnology Information (NCBI),OMIM, 17
+Pathogenic - Likely pathogenic,ClinVar Staff  National Center for Biotechnology Information (NCBI),GeneReviews, 1
+Pathogenic - Benign,GeneDx,OMIM, 25
+Benign - Likely benign,GeneDx,Genetic Services Laboratory  University of Chicago, 40
+Likely benign - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 7
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 31
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 9
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 12
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 31
+Uncertain significance - Benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 25
+Uncertain significance - Likely benign,GeneDx,Emory Genetics Laboratory, 40
+Uncertain significance - Benign,GeneDx,Emory Genetics Laboratory, 53
+Pathogenic - Likely pathogenic,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM),OMIM, 32
+Likely pathogenic - Pathogenic,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM),Emory Genetics Laboratory, 7
+Likely benign - Likely pathogenic,Genetic Services Laboratory  University of Chicago,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Uncertain significance - Benign,Genetic Services Laboratory  University of Chicago,OMIM, 2
+Pathogenic - Uncertain significance,Clinical Biochemistry Laboratory UCL Hospitals,OMIM, 2
+Pathogenic - Benign,GeneReviews,OMIM, 7
+Likely pathogenic - Pathogenic,Counsyl,Clinical Biochemistry Laboratory UCL Hospitals, 14
+Benign - Uncertain significance,Emory Genetics Laboratory,Clinical Biochemistry Laboratory UCL Hospitals, 2
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,Clinical Biochemistry Laboratory UCL Hospitals, 1
+Pathogenic - Likely pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,OMIM, 22
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,OMIM, 1
+Benign - Likely benign,Emory Genetics Laboratory,Invitae, 3
+Pathogenic - Benign,Emory Genetics Laboratory,GeneReviews, 10
+Likely benign - Benign,Genetic Services Laboratory  University of Chicago,LabCorp, 6
+Benign - Likely benign,LabCorp,Genetic Services Laboratory  University of Chicago, 6
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Division of Human Genetics Children's Hospital of Philadelphia, 1
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Blueprint Genetics, 5
+Uncertain significance - Likely benign,GeneDx,Blueprint Genetics, 9
+Likely benign - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 2
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 5
+Benign - Likely benign,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 6
+Uncertain significance - Likely benign,Invitae,Blueprint Genetics, 1
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Emory Genetics Laboratory, 4
+Benign - Likely benign,GeneDx,Emory Genetics Laboratory, 44
+Pathogenic - Likely benign,Genetic Services Laboratory  University of Chicago,OMIM, 9
+Uncertain significance - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 1
+Uncertain significance - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,Laboratory for Medical Science Mathematics RIKEN, 2
+Benign - Likely benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 8
+Pathogenic - Likely pathogenic,Blueprint Genetics,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Uncertain significance,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 16
+Pathogenic - Likely benign,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Pathogenic - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Benign,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 6
+Pathogenic - Likely benign,Invitae,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Likely benign - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Blueprint Genetics, 1
+Pathogenic - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 13
+Pathogenic - Uncertain significance,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,OMIM, 6
+Pathogenic - Uncertain significance,GeneDx,OMIM, 43
+Pathogenic - Likely benign,GeneDx,OMIM, 3
+Uncertain significance - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 5
+Uncertain significance - Likely benign,Emory Genetics Laboratory,OMIM, 2
+Uncertain significance - Benign,GeneDx,OMIM, 8
+Uncertain significance - Pathogenic,OMIM,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Likely benign - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 21
+Likely benign - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 60
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Likely pathogenic - Uncertain significance,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 46
+Likely pathogenic - Pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,OMIM, 2
+Uncertain significance - Likely benign,Invitae,Emory Genetics Laboratory, 2
+Uncertain significance - Likely benign,Invitae,Ambry Genetics, 3
+Benign - Likely benign,Invitae,Ambry Genetics, 37
+Pathogenic - Uncertain significance,Invitae,OMIM, 6
+Pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,OMIM, 29
+Pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 14
+Pathogenic - Uncertain significance,Ambry Genetics,OMIM, 22
+Pathogenic - Uncertain significance,Pathway Genomics,OMIM, 2
+Benign - Likely benign,GeneDx,Ambry Genetics, 172
+Uncertain significance - Benign,Ambry Genetics,Biesecker Laboratory - ClinSeq Project  NHGRI, 34
+Uncertain significance - Likely benign,Ambry Genetics,GeneDx, 44
+Benign - Likely benign,Invitae,Emory Genetics Laboratory, 9
+Uncertain significance - Likely benign,Ambry Genetics,Invitae, 22
+Likely benign - Benign,Ambry Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Uncertain significance - Likely benign,Invitae,CSER_CC_NCGL; University of Washington Medical Center, 1
+Uncertain significance - Likely benign,Invitae,Biesecker Laboratory - ClinSeq Project  NHGRI, 9
+Likely benign - Uncertain significance,Invitae,Ambry Genetics, 7
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 2
+Uncertain significance - Likely benign,Pathway Genomics,Biesecker Laboratory - ClinSeq Project  NHGRI, 5
+Uncertain significance - Likely benign,Ambry Genetics,Biesecker Laboratory - ClinSeq Project  NHGRI, 26
+Pathogenic - Likely benign,Invitae,OMIM, 4
+Pathogenic - Likely benign,Pathway Genomics,OMIM, 2
+Uncertain significance - Benign,Ambry Genetics,GeneDx, 12
+Uncertain significance - Likely benign,Invitae,GeneDx, 12
+Likely pathogenic - Uncertain significance,GeneDx,Ambry Genetics, 1
+Likely pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,Ambry Genetics, 2
+Likely benign - Benign,GeneDx,Invitae, 57
+Uncertain significance - Likely benign,GeneDx,Invitae, 6
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Biesecker Laboratory - ClinSeq Project  NHGRI, 9
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Invitae, 1
+Benign - Likely benign,Emory Genetics Laboratory,Ambry Genetics, 3
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 4
+Uncertain significance - Benign,Invitae,GeneDx, 3
+Uncertain significance - Benign,Pathway Genomics,GeneDx, 1
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Ambry Genetics, 1
+Benign - Uncertain significance,Ambry Genetics,GeneDx, 4
+Benign - Uncertain significance,Ambry Genetics,Invitae, 3
+Pathogenic - Likely pathogenic,Institute for Integrative and Experimental Genomics University of Luebeck,OMIM, 3
+Pathogenic - Uncertain significance,Clinical Memory Research Unit  Department of Clinical Sciences, Lund University,OMIM, 1
+Pathogenic - Likely pathogenic,LabCorp,OMIM, 21
+Benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 10
+Uncertain significance - Likely pathogenic,OMIM,Section of Medical Genetics; Telemark Hospital, 2
+Benign - Pathogenic,OMIM,GeneReviews, 1
+Pathogenic - Uncertain significance,Genetic Services Laboratory  University of Chicago,OMIM, 4
+Pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 1
+Uncertain significance - Likely benign,Division of Genomic Diagnostics The Children's Hospital of Philadelphia,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Likely pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,Genetic Services Laboratory  University of Chicago, 2
+Benign - Likely benign,GeneReviews,Genetic Services Laboratory  University of Chicago, 24
+Uncertain significance - Likely benign,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 12
+Uncertain significance - Benign,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 24
+Benign - Uncertain significance,GeneDx,Genetic Services Laboratory  University of Chicago, 30
+Benign - Uncertain significance,GeneReviews,Genetic Services Laboratory  University of Chicago, 8
+Pathogenic - Uncertain significance,Genetic Services Laboratory  University of Chicago,GeneReviews, 1
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,GeneReviews, 9
+Pathogenic - Likely pathogenic,Ambry Genetics,OMIM, 11
+Pathogenic - Likely pathogenic,Counsyl,Ambry Genetics, 9
+Likely benign - Uncertain significance,GeneDx,Ambry Genetics, 10
+Uncertain significance - Likely benign,Emory Genetics Laboratory,GeneDx, 2
+Pathogenic - Likely pathogenic,Counsyl,GeneDx, 9
+Likely benign - Benign,Invitae,GeneDx, 6
+Likely benign - Uncertain significance,GeneDx,Emory Genetics Laboratory, 8
+Likely benign - Benign,Ambry Genetics,GeneDx, 12
+Likely benign - Benign,Emory Genetics Laboratory,GeneDx, 3
+Likely benign - Benign,Ambry Genetics,Genetic Services Laboratory  University of Chicago, 16
+Likely benign - Benign,Invitae,Genetic Services Laboratory  University of Chicago, 3
+Pathogenic - Uncertain significance,Invitae,GeneDx, 2
+Uncertain significance - Benign,Emory Genetics Laboratory,GeneDx, 2
+Pathogenic - Likely pathogenic,Ambry Genetics,GeneDx, 4
+Pathogenic - Benign,Ambry Genetics,OMIM, 12
+Likely benign - Benign,GeneDx,Ambry Genetics, 6
+Likely benign - Uncertain significance,GeneDx,Invitae, 5
+Likely benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,Ambry Genetics, 1
+Uncertain significance - Benign,GeneDx,Ambry Genetics, 4
+Uncertain significance - Likely pathogenic,GeneDx,Invitae, 2
+Likely benign - Benign,Ambry Genetics,Invitae, 21
+Likely benign - Benign,Emory Genetics Laboratory,Invitae, 6
+Uncertain significance - Pathogenic,GeneDx,Invitae, 1
+Uncertain significance - Likely pathogenic,GeneDx,Ambry Genetics, 8
+Uncertain significance - Benign,GeneDx,Invitae, 4
+Likely pathogenic - Pathogenic,Ambry Genetics,GeneDx, 6
+Benign - Uncertain significance,GeneDx,Ambry Genetics, 3
+Benign - Uncertain significance,GeneDx,Invitae, 1
+Uncertain significance - Likely pathogenic,Ambry Genetics,GeneDx, 4
+Uncertain significance - Likely pathogenic,Ambry Genetics,Counsyl, 1
+Pathogenic - Likely pathogenic,Counsyl,Invitae, 2
+Uncertain significance - Likely pathogenic,Invitae,GeneDx, 3
+Likely benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 12
+Likely benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,GeneDx, 4
+Likely benign - Benign,Emory Genetics Laboratory,LabCorp, 36
+Likely pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,LabCorp, 11
+Pathogenic - Likely pathogenic,Counsyl,Genetic Services Laboratory  University of Chicago, 4
+Likely pathogenic - Pathogenic,LabCorp,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Likely pathogenic,Genetic Services Laboratory  University of Chicago,OMIM, 7
+Pathogenic - Benign,Genetic Services Laboratory  University of Chicago,LabCorp, 1
+Likely benign - Pathogenic,LabCorp,Genetic Services Laboratory  University of Chicago, 1
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,LabCorp, 2
+Benign - Uncertain significance,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 36
+Pathogenic - Benign,Genetic Services Laboratory  University of Chicago,OMIM, 4
+Likely benign - Benign,GeneReviews,Genetic Services Laboratory  University of Chicago, 1
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 3
+Benign - Likely benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 51
+Pathogenic - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 6
+Uncertain significance - Likely benign,GeneDx,OMIM, 3
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 3
+Likely benign - Uncertain significance,Ambry Genetics,GeneDx, 8
+Pathogenic - Likely benign,LabCorp,OMIM, 4
+Uncertain significance - Likely benign,Invitae,LabCorp, 1
+Likely pathogenic - Pathogenic,LabCorp,Quest Diagnostics Nichols Institute San Juan Capistrano, 1
+Benign - Likely benign,GeneReviews,Department of Ophthalmology and Visual Sciences Kyoto University, 4
+Benign - Likely benign,Emory Genetics Laboratory,Pathway Genomics, 1
+Benign - Uncertain significance,GeneDx,Emory Genetics Laboratory, 63
+Benign - Uncertain significance,Invitae,Ambry Genetics, 3
+Likely pathogenic - Uncertain significance,Ambry Genetics,GeneDx, 9
+Benign - Likely benign,Emory Genetics Laboratory,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 8
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center, 2
+Benign - Uncertain significance,GeneDx,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center, 1
+Pathogenic - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 4
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,GeneDx, 2
+Pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 1
+Pathogenic - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 2
+Pathogenic - Likely pathogenic,Baylor Miraca Genetics Laboratories,GeneDx, 1
+Likely benign - Benign,GeneDx,Emory Genetics Laboratory, 7
+Uncertain significance - Likely benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 49
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 2
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Breast Cancer Information Core (BIC) (BRCA1), 11
+Uncertain significance - Benign,Counsyl,Breast Cancer Information Core (BIC) (BRCA1), 1
+Uncertain significance - Benign,GeneDx,Breast Cancer Information Core (BIC) (BRCA1), 6
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA1), 42
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),GeneDx, 63
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 40
+Likely benign - Benign,Breast Cancer Information Core (BIC) (BRCA1),Invitae, 2
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Pathway Genomics, 9
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Breast Cancer Information Core (BIC) (BRCA1), 4
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA1), 27
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 7
+Likely benign - Benign,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 9
+Likely benign - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Sharing Clinical Reports Project (SCRP), 10
+Benign - Likely benign,Invitae,CSER_CC_NCGL; University of Washington Medical Center, 5
+Benign - Likely benign,Invitae,Counsyl, 31
+Benign - Likely benign,Invitae,Pathway Genomics, 5
+Benign - Likely benign,Invitae,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 16
+Pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA1),Sharing Clinical Reports Project (SCRP), 10
+Uncertain significance - Benign,Sharing Clinical Reports Project (SCRP),Biesecker Laboratory - ClinSeq Project  NHGRI, 7
+Likely pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA1),Sharing Clinical Reports Project (SCRP), 4
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 5
+Benign - Likely benign,Invitae,GeneDx, 10
+Benign - Uncertain significance,Invitae,Breast Cancer Information Core (BIC) (BRCA1), 18
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 23
+Benign - Uncertain significance,Invitae,CSER_CC_NCGL; University of Washington Medical Center, 8
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Biesecker Laboratory - ClinSeq Project  NHGRI, 12
+Uncertain significance - Benign,Invitae,Biesecker Laboratory - ClinSeq Project  NHGRI, 17
+Uncertain significance - Benign,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 15
+Uncertain significance - Likely benign,Counsyl,Biesecker Laboratory - ClinSeq Project  NHGRI, 9
+Uncertain significance - Benign,Pathway Genomics,Biesecker Laboratory - ClinSeq Project  NHGRI, 3
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Emory Genetics Laboratory, 5
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 11
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),CSER_CC_NCGL; University of Washington Medical Center, 6
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Counsyl, 31
+Uncertain significance - Benign,Sharing Clinical Reports Project (SCRP),Invitae, 6
+Uncertain significance - Benign,Ambry Genetics,Invitae, 4
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Invitae, 2
+Pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA1),OMIM, 6
+Likely benign - Uncertain significance,Invitae,Breast Cancer Information Core (BIC) (BRCA1), 4
+Likely benign - Uncertain significance,Invitae,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 9
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Emory Genetics Laboratory, 7
+Pathogenic - Likely pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,OMIM, 20
+Likely benign - Benign,GeneDx,Sharing Clinical Reports Project (SCRP), 6
+Likely benign - Benign,Counsyl,Sharing Clinical Reports Project (SCRP), 1
+Likely benign - Benign,Invitae,Sharing Clinical Reports Project (SCRP), 3
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),CSER_CC_NCGL; University of Washington Medical Center, 1
+Benign - Likely benign,GeneDx,Counsyl, 2
+Benign - Uncertain significance,GeneDx,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 12
+Uncertain significance - Likely benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Biesecker Laboratory - ClinSeq Project  NHGRI, 2
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),GeneDx, 10
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Invitae, 18
+Uncertain significance - Likely benign,Sharing Clinical Reports Project (SCRP),Invitae, 8
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),CSER_CC_NCGL; University of Washington Medical Center, 4
+Uncertain significance - Likely benign,Sharing Clinical Reports Project (SCRP),GeneDx, 1
+Pathogenic - Likely benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,OMIM, 2
+Pathogenic - Benign,Invitae,OMIM, 3
+Pathogenic - Likely benign,Counsyl,OMIM, 1
+Pathogenic - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),OMIM, 3
+Pathogenic - Benign,Sharing Clinical Reports Project (SCRP),OMIM, 2
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 12
+Uncertain significance - Likely benign,GeneDx,Sharing Clinical Reports Project (SCRP), 7
+Likely benign - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Biesecker Laboratory - ClinSeq Project  NHGRI, 5
+Likely benign - Benign,Invitae,Biesecker Laboratory - ClinSeq Project  NHGRI, 7
+Likely benign - Benign,Sharing Clinical Reports Project (SCRP),Biesecker Laboratory - ClinSeq Project  NHGRI, 3
+Likely benign - Benign,Breast Cancer Information Core (BIC) (BRCA1),Biesecker Laboratory - ClinSeq Project  NHGRI, 2
+Likely benign - Benign,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 14
+Likely benign - Benign,Ambry Genetics,Biesecker Laboratory - ClinSeq Project  NHGRI, 13
+Likely benign - Benign,Emory Genetics Laboratory,Biesecker Laboratory - ClinSeq Project  NHGRI, 7
+Uncertain significance - Likely benign,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 9
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Sharing Clinical Reports Project (SCRP), 3
+Pathogenic - Likely pathogenic,Counsyl,Sharing Clinical Reports Project (SCRP), 13
+Benign - Uncertain significance,Invitae,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 9
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),GeneDx, 7
+Likely benign - Uncertain significance,Ambry Genetics,Emory Genetics Laboratory, 7
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA1), 5
+Uncertain significance - Benign,Counsyl,Biesecker Laboratory - ClinSeq Project  NHGRI, 3
+Pathogenic - Benign,Counsyl,OMIM, 2
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 3
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Counsyl, 2
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Biesecker Laboratory - ClinSeq Project  NHGRI, 8
+Uncertain significance - Likely benign,GeneDx,Ambry Genetics, 10
+Uncertain significance - Benign,Emory Genetics Laboratory,Biesecker Laboratory - ClinSeq Project  NHGRI, 8
+Pathogenic - Likely pathogenic,Pathway Genomics,Sharing Clinical Reports Project (SCRP), 1
+Uncertain significance - Likely benign,Invitae,Breast Cancer Information Core (BIC) (BRCA1), 2
+Pathogenic - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Uncertain significance,GeneDx,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Benign,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Likely benign,Invitae,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Likely benign,Ambry Genetics,OMIM, 6
+Benign - Likely benign,Breast Cancer Information Core (BIC) (BRCA1),Counsyl, 1
+Likely benign - Benign,Sharing Clinical Reports Project (SCRP),GeneDx, 1
+Likely benign - Uncertain significance,GeneDx,Breast Cancer Information Core (BIC) (BRCA1), 1
+Uncertain significance - Pathogenic,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 2
+Uncertain significance - Pathogenic,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA1), 1
+Likely benign - Benign,Sharing Clinical Reports Project (SCRP),Invitae, 13
+Likely benign - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Invitae, 11
+Pathogenic - Likely pathogenic,Ambry Genetics,Breast Cancer Information Core (BIC) (BRCA1), 3
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Likely pathogenic,GeneDx,Sharing Clinical Reports Project (SCRP), 3
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Breast Cancer Information Core (BIC) (BRCA1), 1
+Uncertain significance - Pathogenic,Invitae,Counsyl, 1
+Uncertain significance - Pathogenic,Invitae,Breast Cancer Information Core (BIC) (BRCA1), 1
+Pathogenic - Likely pathogenic,Invitae,Sharing Clinical Reports Project (SCRP), 3
+Pathogenic - Likely pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Likely pathogenic,Pathway Genomics,GeneDx, 1
+Likely benign - Uncertain significance,Ambry Genetics,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 5
+Uncertain significance - Likely benign,Counsyl,Breast Cancer Information Core (BIC) (BRCA1), 1
+Pathogenic - Likely pathogenic,Sharing Clinical Reports Project (SCRP),OMIM, 2
+Pathogenic - Likely pathogenic,Division of Human Genetics Innsbruck Medical University Innsbruck,OMIM, 1
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA), 3
+Likely pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA1),Invitae, 1
+Uncertain significance - Likely benign,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA1), 1
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Pathway Genomics, 9
+Benign - Likely benign,Breast Cancer Information Core (BIC) (BRCA1),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Likely benign - Uncertain significance,Invitae,CSER_CC_NCGL; University of Washington Medical Center, 1
+Uncertain significance - Likely benign,Ambry Genetics,Breast Cancer Information Core (BIC) (BRCA1), 1
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Breast Cancer Information Core (BIC) (BRCA2), 10
+Uncertain significance - Benign,Emory Genetics Laboratory,Breast Cancer Information Core (BIC) (BRCA2), 2
+Uncertain significance - Benign,Counsyl,Breast Cancer Information Core (BIC) (BRCA2), 2
+Uncertain significance - Likely benign,Ambry Genetics,Breast Cancer Information Core (BIC) (BRCA2), 1
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA2), 71
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Emory Genetics Laboratory, 4
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Invitae, 3
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA2), 37
+Benign - Likely benign,Breast Cancer Information Core (BIC) (BRCA2),Pathway Genomics, 1
+Benign - Uncertain significance,Invitae,Breast Cancer Information Core (BIC) (BRCA2), 33
+Benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Invitae, 6
+Likely benign - Uncertain significance,Invitae,Emory Genetics Laboratory, 5
+Likely benign - Uncertain significance,Invitae,Breast Cancer Information Core (BIC) (BRCA2), 20
+Likely benign - Benign,Pathway Genomics,Invitae, 1
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Breast Cancer Information Core (BIC) (BRCA2), 5
+Benign - Likely benign,Breast Cancer Information Core (BIC) (BRCA2),Ambry Genetics, 2
+Likely benign - Uncertain significance,GeneDx,Sharing Clinical Reports Project (SCRP), 2
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,CSER_CC_NCGL; University of Washington Medical Center, 3
+Likely benign - Benign,Breast Cancer Information Core (BIC) (BRCA2),Biesecker Laboratory - ClinSeq Project  NHGRI, 5
+Likely benign - Benign,Breast Cancer Information Core (BIC) (BRCA2),Invitae, 6
+Benign - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA2),GeneDx, 1
+Uncertain significance - Likely benign,GeneDx,Breast Cancer Information Core (BIC) (BRCA2), 2
+Uncertain significance - Likely benign,Counsyl,Sharing Clinical Reports Project (SCRP), 4
+Benign - Uncertain significance,Invitae,Emory Genetics Laboratory, 3
+Benign - Likely benign,Invitae,Sharing Clinical Reports Project (SCRP), 1
+Likely benign - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Invitae, 1
+Uncertain significance - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Uncertain significance - Likely benign,Invitae,Sharing Clinical Reports Project (SCRP), 3
+Uncertain significance - Benign,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 3
+Uncertain significance - Likely benign,Emory Genetics Laboratory,Biesecker Laboratory - ClinSeq Project  NHGRI, 4
+Likely benign - Benign,Counsyl,Invitae, 1
+Uncertain significance - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Uncertain significance - Pathogenic,Invitae,Sharing Clinical Reports Project (SCRP), 1
+Likely benign - Uncertain significance,Invitae,GeneDx, 6
+Likely benign - Uncertain significance,Invitae,Sharing Clinical Reports Project (SCRP), 1
+Pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA2),OMIM, 2
+Likely pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA2),Sharing Clinical Reports Project (SCRP), 4
+Likely benign - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Likely benign - Uncertain significance,Sharing Clinical Reports Project (SCRP),Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Pathogenic - Uncertain significance,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 2
+Benign - Likely benign,Sharing Clinical Reports Project (SCRP),Biesecker Laboratory - ClinSeq Project  NHGRI, 4
+Pathogenic - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Sharing Clinical Reports Project (SCRP), 1
+Uncertain significance - Benign,Ambry Genetics,Breast Cancer Information Core (BIC) (BRCA2), 1
+Pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA2),Sharing Clinical Reports Project (SCRP), 7
+Benign - Uncertain significance,Invitae,Sharing Clinical Reports Project (SCRP), 2
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,Sharing Clinical Reports Project (SCRP), 2
+Pathogenic - Likely pathogenic,Counsyl,Breast Cancer Information Core (BIC) (BRCA2), 1
+Likely benign - Benign,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA),Ambry Genetics, 1
+Likely pathogenic - Uncertain significance,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 1
+Likely pathogenic - Uncertain significance,GeneDx,Sharing Clinical Reports Project (SCRP), 1
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Sharing Clinical Reports Project (SCRP), 1
+Likely benign - Benign,Pathway Genomics,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Likely benign - Benign,Counsyl,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Uncertain significance - Pathogenic,OMIM,Ambry Genetics, 1
+Uncertain significance - Pathogenic,OMIM,Sharing Clinical Reports Project (SCRP), 1
+Uncertain significance - Pathogenic,OMIM,Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA), 1
+Pathogenic - Uncertain significance,Breast Cancer Information Core (BIC) (BRCA2),Invitae, 3
+Likely benign - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Uncertain significance - Likely pathogenic,Breast Cancer Information Core (BIC) (BRCA2),Ambry Genetics, 1
+Pathogenic - Likely pathogenic,Ambry Genetics,Sharing Clinical Reports Project (SCRP), 2
+Pathogenic - Likely pathogenic,GeneDx,Invitae, 1
+Pathogenic - Likely pathogenic,Ambry Genetics,Invitae, 1
+Uncertain significance - Likely pathogenic,Sharing Clinical Reports Project (SCRP),Division of Human Genetics Innsbruck Medical University Innsbruck, 1
+Uncertain significance - Likely benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Breast Cancer Information Core (BIC) (BRCA2), 1
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),GeneDx, 2
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),Breast Cancer Information Core (BIC) (BRCA2), 2
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),Division of Human Genetics Innsbruck Medical University Innsbruck, 1
+Likely benign - Benign,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 1
+Benign - Likely pathogenic,Sharing Clinical Reports Project (SCRP),GeneDx, 1
+Benign - Likely pathogenic,Sharing Clinical Reports Project (SCRP),Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Likely pathogenic - Pathogenic,Sharing Clinical Reports Project (SCRP),Ambry Genetics, 1
+Benign - Uncertain significance,Invitae,GeneDx, 1
+Pathogenic - Likely pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Invitae, 1
+Benign - Likely benign,ARUP,Counsyl, 1
+Pathogenic - Likely pathogenic,Counsyl,ARUP, 7
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,ARUP, 8
+Pathogenic - Likely benign,GeneDx,ARUP, 1
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,ARUP, 1
+Benign - Uncertain significance,ARUP,Emory Genetics Laboratory, 2
+Pathogenic - Likely pathogenic,Emory Genetics Laboratory,ARUP, 5
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,Molecular Genetics Diagnostic Laboratory Detroit Medical Center University Laboratories, 1
+Pathogenic - Likely pathogenic,GeneDx,Molecular Genetics Diagnostic Laboratory Detroit Medical Center University Laboratories, 1
+Uncertain significance - Pathogenic,OMIM,GeneReviews, 13
+Likely benign - Benign,Emory Genetics Laboratory,UniProtKB/Swiss-Prot, 1
+Likely pathogenic - Pathogenic,Blueprint Genetics,GeneDx, 6
+Likely benign - Uncertain significance,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 4
+Likely pathogenic - Pathogenic,Emory Genetics Laboratory,GeneReviews, 1
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Emory Genetics Laboratory, 3
+Uncertain significance - Likely benign,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 3
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 7
+Benign - Likely benign,Emory Genetics Laboratory,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Uncertain significance - Likely benign,Blueprint Genetics,Emory Genetics Laboratory, 1
+Pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 34
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 5
+Likely pathogenic - Likely benign,GeneDx,LabCorp, 7
+Pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Likely pathogenic,Division of Human Genetics Children's Hospital of Philadelphia,OMIM, 3
+Pathogenic - Likely pathogenic,Richard Lifton Laboratory  Yale University School of Medicine,OMIM, 11
+Uncertain significance - Pathogenic,CSER_CC_NCGL; University of Washington Medical Center,GeneReviews, 2
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,CSER_CC_NCGL; University of Washington Medical Center, 5
+Uncertain significance - Likely pathogenic,Blueprint Genetics,GeneDx, 3
+Uncertain significance - Likely benign,GeneDx,CSER_CC_NCGL; University of Washington Medical Center, 5
+Pathogenic - Likely pathogenic,Blueprint Genetics,OMIM, 11
+Likely pathogenic - Pathogenic,George Lab Vanderbilt University,OMIM, 5
+Pathogenic - Likely benign,Blueprint Genetics,OMIM, 3
+Likely benign - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 1
+Likely pathogenic - Benign,Emory Genetics Laboratory,LabCorp, 3
+Pathogenic - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 13
+Pathogenic - Uncertain significance,Blueprint Genetics,OMIM, 9
+Pathogenic - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 8
+Benign - Likely benign,Genetic Services Laboratory  University of Chicago,Invitae, 1
+Likely pathogenic - Benign,Emory Genetics Laboratory,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM), 1
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Invitae, 1
+Pathogenic - Benign,Pathway Genomics,OMIM, 1
+Uncertain significance - Pathogenic,Ambry Genetics,GeneDx, 3
+Pathogenic - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,OMIM, 14
+Benign - Likely benign,GeneDx,Invitae, 2
+Uncertain significance - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 4
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Department of Ophthalmology and Visual Sciences Kyoto University, 4
+Benign - Likely benign,Genetic Services Laboratory  University of Chicago,RettBASE, 1
+Uncertain significance - Likely benign,RettBASE,GeneDx, 2
+Uncertain significance - Pathogenic,RettBASE,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Likely pathogenic,RettBASE,GeneDx, 1
+Likely pathogenic - Pathogenic,RettBASE,GeneDx, 3
+Pathogenic - Likely pathogenic,RettBASE,OMIM, 1
+Benign - Uncertain significance,RettBASE,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,Genetic Services Laboratory  University of Chicago,GeneDx, 3
+Likely benign - Uncertain significance,RettBASE,GeneDx, 1
+Likely pathogenic - Pathogenic,Emory Genetics Laboratory,RettBASE, 1
+Likely pathogenic - Pathogenic,Emory Genetics Laboratory,GeneDx, 4
+Likely pathogenic - Pathogenic,RettBASE,Genetic Services Laboratory  University of Chicago, 1
+Likely pathogenic - Pathogenic,Genetic Services Laboratory  University of Chicago,RettBASE, 2
+Pathogenic - Uncertain significance,RettBASE,OMIM, 6
+Uncertain significance - Likely benign,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 6
+Pathogenic - Uncertain significance,Ambry Genetics,GeneDx, 4
+Likely pathogenic - Uncertain significance,Ambry Genetics,Invitae, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 5
+Likely pathogenic - Pathogenic,LabCorp,CFTR2, 5
+Benign - Likely benign,OMIM,Genetic Services Laboratory  University of Chicago, 6
+Pathogenic - Uncertain significance,LabCorp,OMIM, 9
+Likely benign - Uncertain significance,LabCorp,Emory Genetics Laboratory, 4
+Likely benign - Pathogenic,LabCorp,GeneReviews, 1
+Uncertain significance - Pathogenic,LabCorp,Emory Genetics Laboratory, 2
+Uncertain significance - Pathogenic,LabCorp,CFTR2, 1
+Likely pathogenic - Pathogenic,Counsyl,CFTR2, 1
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 8
+Likely benign - Benign,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 5
+Pathogenic - Uncertain significance,GeneDx,Ambry Genetics, 1
+Pathogenic - Likely pathogenic,Pathway Genomics,OMIM, 1
+Pathogenic - Uncertain significance,GeneReviews,OMIM, 6
+Uncertain significance - Benign,GeneDx,Genetic Services Laboratory  University of Chicago, 16
+Uncertain significance - Likely benign,GeneDx,Genetic Services Laboratory  University of Chicago, 12
+Uncertain significance - Pathogenic,OMIM,GOLD service  Hunter New England Health, 1
+Likely pathogenic - Pathogenic,Guangxi Key laboratory of Metabolic Diseases Research; Guilin 181st Hospital,GeneReviews, 1
+Pathogenic - Uncertain significance,Martin Pollak Beth Israel Deaconess Medical Center  Dept. of Nephrology,OMIM, 1
+Likely pathogenic - Likely benign,Counsyl,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM), 1
+Likely pathogenic - Uncertain significance,GeneDx,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM), 1
+Likely pathogenic - Pathogenic,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM),GeneDx, 4
+Uncertain significance - Likely pathogenic,Genetic Services Laboratory  University of Chicago,GeneDx, 2
+Benign - Likely benign,Emory Genetics Laboratory,GeneDx, 16
+Pathogenic - Likely pathogenic,Counsyl,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 13
+Benign - Uncertain significance,Emory Genetics Laboratory,GeneDx, 15
+Uncertain significance - Benign,GeneDx,LabCorp, 29
+Pathogenic - Likely pathogenic,GeneDx,Collagen Diagnostic Laboratory University of Washington Medical Center, 2
+Likely benign - Uncertain significance,Emory Genetics Laboratory,GeneDx, 6
+Pathogenic - Likely pathogenic,Blueprint Genetics,Collagen Diagnostic Laboratory University of Washington Medical Center, 1
+Likely benign - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 6
+Pathogenic - Benign,GeneDx,GeneReviews, 4
+Benign - Likely benign,GeneDx,Blueprint Genetics, 1
+Likely benign - Uncertain significance,Blueprint Genetics,Emory Genetics Laboratory, 1
+Likely benign - Likely pathogenic,Emory Genetics Laboratory,GeneDx, 2
+Likely pathogenic - Benign,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Benign,Genetic Services Laboratory  University of Chicago,GeneReviews, 1
+Pathogenic - Uncertain significance,OMIM,GeneReviews, 1
+Likely pathogenic - Pathogenic,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM),GeneReviews, 8
+Pathogenic - Uncertain significance,Science for Life laboratory Medical Epidemiology and Biostatistics,OMIM, 1
+Pathogenic - Uncertain significance,Richard Lifton Laboratory  Yale University School of Medicine,OMIM, 1
+Pathogenic - Uncertain significance,Eye Genetics Research Group Children’s Medical Research Institute,OMIM, 2
+Likely benign - Benign,OMIM,LabCorp, 2
+Likely benign - Benign,GeneReviews,LabCorp, 1
+Pathogenic - Likely benign,Department of Ophthalmology and Visual Sciences Kyoto University,GeneReviews, 2
+Benign - Likely pathogenic,GeneDx,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 11
+Uncertain significance - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 3
+Uncertain significance - Pathogenic,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 17
+Uncertain significance - Benign,Génétique et pathophysiologie de maladies neurodéveloppementales et épileptogènes  Institut de génétique et de biologie moléculaire et cellulaire,GeneDx, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,Invitae, 1
+Pathogenic - Uncertain significance,Department of Genetics  Reproduction and Fetal Medicine.,Institute of Biomedicine of Seville (IBIS), University Hospital Virgen del Rocío/CSIC/University of Seville.,OMIM, 1
+Uncertain significance - Likely benign,Blueprint Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 13
+Likely pathogenic - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 2
+Likely pathogenic - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 4
+Likely pathogenic - Likely benign,Blueprint Genetics,LabCorp, 1
+Likely pathogenic - Uncertain significance,GeneDx,Blueprint Genetics, 2
+Uncertain significance - Benign,Blueprint Genetics,OMIM, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,OMIM, 4
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Likely pathogenic - Pathogenic,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 3
+Likely pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 3
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 10
+Pathogenic - Uncertain significance,GeneDx,LabCorp, 1
+Pathogenic - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 1
+Pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,LabCorp, 1
+Pathogenic - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 1
+Likely benign - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 2
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 24
+Uncertain significance - Likely benign,GeneDx,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 44
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 29
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,CSER_CC_NCGL; University of Washington Medical Center, 12
+Likely benign - Uncertain significance,LabCorp,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 2
+Likely pathogenic - Pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,GeneDx, 2
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 12
+Uncertain significance - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 13
+Uncertain significance - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 4
+Likely benign - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,LabCorp, 3
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 9
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,OMIM, 10
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,OMIM, 10
+Likely benign - Uncertain significance,LabCorp,Blueprint Genetics, 2
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 20
+Likely pathogenic - Pathogenic,Center for Genetic Medicine Research Children's National Medical Center,Molecular Neurogenomics lab VIB Department of Molecular Genetics; University of Antwerp, 1
+Likely pathogenic - Pathogenic,Department of Mental Retardation and Birth Defect Research National Institute of Neuroscience  National Center of Neurology and Psychiatry,OMIM, 2
+Uncertain significance - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genomic Research Center  Shahid Beheshti University of Medical Sciences, 2
+Likely pathogenic - Benign,Emory Genetics Laboratory,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,CSER_CC_NCGL; University of Washington Medical Center, 1
+Uncertain significance - Benign,GeneReviews,OMIM, 3
+Benign - Likely benign,GeneReviews,GeneDx, 3
+Likely benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,GeneReviews, 1
+Likely benign - Benign,Claritas Genomics,Genetic Services Laboratory  University of Chicago, 9
+Pathogenic - Uncertain significance,Claritas Genomics,OMIM, 1
+Likely pathogenic - Pathogenic,Akiko Shimamura Lab Fred Hutchinson Cancer Research Center,OMIM, 1
+Likely pathogenic - Pathogenic,Genetic Services Laboratory  University of Chicago,OMIM, 1
+Likely pathogenic - Pathogenic,Genetic Services Laboratory  University of Chicago,GeneReviews, 1
+Pathogenic - Uncertain significance,ClinVar Staff  National Center for Biotechnology Information (NCBI),OMIM, 6
+Pathogenic - Likely pathogenic,Department of Hematology University of Health Sciences,Invitae, 1
+Pathogenic - Uncertain significance,OMIM,Department of Neuroscience  King Faisal Specialist Hospital, 1
+Uncertain significance - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 4
+Likely pathogenic - Pathogenic,LabCorp,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Likely benign - Likely pathogenic,LabCorp,GeneDx, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 1
+Likely pathogenic - Likely benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,LabCorp,OMIM, 2
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 5
+Likely pathogenic - Pathogenic,LabCorp,GeneDx, 11
+Uncertain significance - Likely pathogenic,OMIM,LabCorp, 2
+Uncertain significance - Pathogenic,OMIM,GeneDx, 2
+Pathogenic - Likely pathogenic,Chan Lab Boston Children's Hospital,OMIM, 2
+Pathogenic - Likely pathogenic,Center for Individualized Medicine Mayo Clinic,Emory Genetics Laboratory, 1
+Pathogenic - Uncertain significance,Ambry Genetics,GeneReviews, 2
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,GeneReviews, 1
+Uncertain significance - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneReviews, 2
+Uncertain significance - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 1
+Pathogenic - Benign,Northcott Neuroscience Laboratory ANZAC Research Institute,OMIM, 1
+Pathogenic - Likely benign,Emory Genetics Laboratory,OMIM, 11
+Benign - Likely pathogenic,Emory Genetics Laboratory,GeneDx, 1
+Likely benign - Uncertain significance,LabCorp,GeneDx, 1
+Pathogenic - Likely pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,Ambry Genetics,Emory Genetics Laboratory, 1
+Pathogenic - Likely pathogenic,Ambry Genetics,Emory Genetics Laboratory, 1
+Pathogenic - Uncertain significance,Baylor Miraca Genetics Laboratories,OMIM, 1
+Benign - Uncertain significance,Emory Genetics Laboratory,Claritas Genomics, 1
+Benign - Likely benign,Emory Genetics Laboratory,Claritas Genomics, 2
+Benign - Likely benign,RettBASE,GeneDx, 1
+Uncertain significance - Benign,RettBASE,Emory Genetics Laboratory, 1
+Uncertain significance - Pathogenic,GeneDx,Ambry Genetics, 1
+Pathogenic - Uncertain significance,Molecular Diagnostics Laboratory Seoul National University Hospital,OMIM, 1
+Likely pathogenic - Benign,Genetic Services Laboratory  University of Chicago,TilsonLab Columbia University, 1
+Benign - Likely benign,Emory Genetics Laboratory,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Benign - Likely pathogenic,Emory Genetics Laboratory,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Benign - Likely benign,Emory Genetics Laboratory,Counsyl, 8
+Uncertain significance - Likely benign,Emory Genetics Laboratory,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Pathogenic - Benign,ARUP,OMIM, 1
+Benign - Pathogenic,ARUP,GeneDx, 1
+Pathogenic - Likely pathogenic,LabCorp,ARUP, 2
+Benign - Likely benign,OMIM,LabCorp, 3
+Benign - Pathogenic,OMIM,GeneDx, 1
+Benign - Likely benign,LabCorp,ARUP, 1
+Benign - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics and Enzymology National Research Centre, 1
+Likely benign - Benign,Genetic Services Laboratory  University of Chicago,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Pathogenic,OMIM,Emory Genetics Laboratory, 3
+Uncertain significance - Pathogenic,OMIM,Division of Human Genetics Children's Hospital of Philadelphia, 1
+Uncertain significance - Pathogenic,OMIM,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Benign - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 3
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Pathogenic - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 4
+Pathogenic - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 2
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Emory Genetics Laboratory, 1
+Pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 1
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,OMIM, 1
+Benign - Likely benign,Emory Genetics Laboratory,Blueprint Genetics, 1
+Benign - Uncertain significance,GeneReviews,Clinical Biochemistry Laboratory UCL Hospitals, 1
+Uncertain significance - Likely benign,Department of Ophthalmology and Visual Sciences Kyoto University,OMIM, 1
+Benign - Likely benign,Emory Genetics Laboratory,Department of Ophthalmology and Visual Sciences Kyoto University, 2
+Likely pathogenic - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 1
+Pathogenic - Likely pathogenic,Counsyl,Unidad de Diagnostico y Tratamiento de Errores Congenitos del Metabolismo. Hospital Clínico Universitário de Santiago de Compostela, 2
+Likely pathogenic - Uncertain significance,Genetic Services Laboratory  University of Chicago,LabCorp, 1
+Pathogenic - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 1
+Likely benign - Uncertain significance,Blueprint Genetics,GeneDx, 6
+Pathogenic - Uncertain significance,OMIM,Samuels research lab Centre de Recherche du CHU Ste-Justine, 2
+Uncertain significance - Likely benign,Emory Genetics Laboratory,LabCorp, 2
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 10
+Pathogenic - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 7
+Pathogenic - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 6
+Pathogenic - Uncertain significance,Invitae,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 3
+Pathogenic - Likely pathogenic,Laboratory for Medical Science Mathematics RIKEN,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Pathogenic - Uncertain significance,Blueprint Genetics,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Likely pathogenic,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 15
+Uncertain significance - Pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 6
+Uncertain significance - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 4
+Benign - Uncertain significance,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 7
+Benign - Uncertain significance,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Biesecker Laboratory - ClinSeq Project  NHGRI, 2
+Pathogenic - Likely benign,Blueprint Genetics,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 4
+Likely benign - Benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,LabCorp, 2
+Likely pathogenic - Pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 3
+Uncertain significance - Likely pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 2
+Uncertain significance - Likely benign,Blueprint Genetics,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Likely pathogenic - Pathogenic,Richard Lifton Laboratory  Yale University School of Medicine,OMIM, 2
+Likely pathogenic - Pathogenic,Invitae,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Uncertain significance - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Benign - Likely pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 2
+Likely benign - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 3
+Likely pathogenic - Pathogenic,GeneDx,Center of Medical Genetics Sir Ganga Ram Hospital, 1
+Likely pathogenic - Benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,LabCorp, 1
+Benign - Likely benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Benign - Pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneDx, 1
+Uncertain significance - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 2
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Pathogenic - Likely pathogenic,Laboratory for Medical Science Mathematics RIKEN,OMIM, 1
+Pathogenic - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 2
+Likely pathogenic - Pathogenic,LabCorp,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Likely benign,Genetic Services Laboratory  University of Chicago,GeneReviews, 2
+Pathogenic - Likely benign,GeneDx,GeneReviews, 1
+Likely pathogenic - Pathogenic,CHU Sainte-Justine Research Center University of Montreal,OMIM, 1
+Likely pathogenic - Uncertain significance,Invitae,Section of Medical Genetics; Telemark Hospital, 1
+Pathogenic - Likely pathogenic,Invitae,OMIM, 1
+Uncertain significance - Likely pathogenic,Emory Genetics Laboratory,Shaikh Laboratory  University of Colorado, 1
+Pathogenic - Likely pathogenic,Shaikh Laboratory  University of Colorado,Emory Genetics Laboratory, 2
+Pathogenic - Likely pathogenic,Shaikh Laboratory  University of Colorado,Genetic Services Laboratory  University of Chicago, 1
+Uncertain significance - Likely pathogenic,OMIM,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 2
+Likely pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,LabCorp, 2
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,LabCorp, 1
+Pathogenic - Likely pathogenic,Institute for Integrative and Experimental Genomics University of Luebeck,CSER_CC_NCGL; University of Washington Medical Center, 2
+Uncertain significance - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Institute for Integrative and Experimental Genomics University of Luebeck, 1
+Uncertain significance - Likely benign,Institute for Integrative and Experimental Genomics University of Luebeck,LabCorp, 1
+Likely benign - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Institute for Integrative and Experimental Genomics University of Luebeck, 1
+Uncertain significance - Likely benign,Institute for Integrative and Experimental Genomics University of Luebeck,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,OMIM, 1
+Benign - Likely benign,LabCorp,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely benign - Pathogenic,CSER_CC_NCGL; University of Washington Medical Center,GeneDx, 1
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 1
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,CSER_CC_NCGL; University of Washington Medical Center, 2
+Uncertain significance - Likely benign,Invitae,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely pathogenic - Uncertain significance,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 8
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Division of Human Genetics Children's Hospital of Philadelphia, 1
+Pathogenic - Uncertain significance,ClinVar Staff  National Center for Biotechnology Information (NCBI),GeneReviews, 1
+Pathogenic - Uncertain significance,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Pathogenic - Likely pathogenic,UniProtKB/Swiss-Prot,OMIM, 1
+Uncertain significance - Pathogenic,RettBASE,GeneDx, 3
+Uncertain significance - Likely pathogenic,GeneDx,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Likely benign - Benign,RettBASE,Emory Genetics Laboratory, 1
+Uncertain significance - Benign,RettBASE,LabCorp, 1
+Uncertain significance - Benign,Molecular Genetics Laboratory Children's Mercy Hospital and Clinics,GeneDx, 1
+Likely pathogenic - Uncertain significance,RettBASE,LabCorp, 8
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,RettBASE, 1
+Pathogenic - Benign,RettBASE,OMIM, 1
+Uncertain significance - Benign,Genetic Services Laboratory  University of Chicago,RettBASE, 1
+Uncertain significance - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,RettBASE, 1
+Uncertain significance - Benign,RettBASE,GeneDx, 1
+Uncertain significance - Likely pathogenic,RettBASE,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Pathogenic - Uncertain significance,RettBASE,GeneDx, 1
+Uncertain significance - Benign,Genetic Services Laboratory  University of Chicago,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Uncertain significance - Benign,RettBASE,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Pathogenic - Uncertain significance,RettBASE,Emory Genetics Laboratory, 1
+Pathogenic - Likely pathogenic,Molecular Genetics Laboratory Children's Mercy Hospital and Clinics,OMIM, 1
+Likely pathogenic - Pathogenic,LabCorp,RettBASE, 1
+Benign - Likely benign,RettBASE,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Benign - Uncertain significance,RettBASE,Genetic Services Laboratory  University of Chicago, 2
+Benign - Uncertain significance,RettBASE,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Benign - Likely benign,RettBASE,Genetic Services Laboratory  University of Chicago, 1
+Uncertain significance - Likely benign,LabCorp,OMIM, 3
+Uncertain significance - Likely pathogenic,OMIM,Emory Genetics Laboratory, 2
+Uncertain significance - Benign,Invitae,LabCorp, 3
+Likely benign - Benign,Invitae,LabCorp, 4
+Likely pathogenic - Pathogenic,LabCorp,Emory Genetics Laboratory, 1
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Emory Genetics Laboratory, 1
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 2
+conflicting data from submitters - Pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 7
+conflicting data from submitters - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 18
+Benign - Likely benign,GeneReviews,Counsyl, 3
+Likely benign - Benign,Ambry Genetics,InSiGHT, 7
+Uncertain significance - Pathogenic,InSiGHT,Ambry Genetics, 2
+Uncertain significance - Benign,Ambry Genetics,LabCorp, 4
+Uncertain significance - Benign,Pathway Genomics,LabCorp, 1
+Uncertain significance - Benign,InSiGHT,LabCorp, 3
+Benign - Uncertain significance,InSiGHT,GeneDx, 3
+Benign - Uncertain significance,InSiGHT,Invitae, 3
+Uncertain significance - Benign,InSiGHT,Biesecker Laboratory - ClinSeq Project  NHGRI, 5
+Benign - Uncertain significance,InSiGHT,CSER_CC_NCGL; University of Washington Medical Center, 3
+Benign - Uncertain significance,InSiGHT,Ambry Genetics, 2
+Uncertain significance - Likely benign,Ambry Genetics,InSiGHT, 21
+Uncertain significance - Likely pathogenic,InSiGHT,Ambry Genetics, 9
+Pathogenic - Likely pathogenic,Ambry Genetics,InSiGHT, 1
+Uncertain significance - Benign,InSiGHT,OMIM, 2
+Uncertain significance - Likely benign,Ambry Genetics,OMIM, 1
+Uncertain significance - Likely benign,InSiGHT,Biesecker Laboratory - ClinSeq Project  NHGRI, 6
+Likely benign - Uncertain significance,InSiGHT,GeneDx, 9
+Likely benign - Uncertain significance,InSiGHT,Invitae, 4
+Uncertain significance - Likely benign,Emory Genetics Laboratory,InSiGHT, 1
+Uncertain significance - Benign,Ambry Genetics,InSiGHT, 2
+Uncertain significance - Benign,GeneDx,InSiGHT, 12
+Uncertain significance - Benign,Ambry Genetics,OMIM, 2
+Uncertain significance - Likely benign,Pathway Genomics,OMIM, 1
+Benign - Likely benign,InSiGHT,Pathway Genomics, 2
+Benign - Likely benign,InSiGHT,Emory Genetics Laboratory, 1
+Benign - Likely benign,InSiGHT,GeneDx, 2
+Uncertain significance - Likely benign,GeneDx,InSiGHT, 4
+Likely pathogenic - Uncertain significance,Invitae,InSiGHT, 2
+Likely pathogenic - Uncertain significance,GeneDx,InSiGHT, 1
+Likely benign - Benign,Pathway Genomics,LabCorp, 8
+Likely benign - Benign,Ambry Genetics,LabCorp, 9
+Likely benign - Benign,InSiGHT,LabCorp, 9
+Likely benign - Benign,GeneDx,InSiGHT, 13
+Likely pathogenic - Pathogenic,InSiGHT,Ambry Genetics, 4
+Likely benign - Uncertain significance,InSiGHT,CSER_CC_NCGL; University of Washington Medical Center, 3
+Likely benign - Uncertain significance,InSiGHT,Ambry Genetics, 2
+Likely benign - Benign,Invitae,InSiGHT, 4
+Likely pathogenic - Pathogenic,InSiGHT,GeneDx, 2
+Likely pathogenic - Uncertain significance,Ambry Genetics,InSiGHT, 2
+Likely benign - Benign,Emory Genetics Laboratory,InSiGHT, 2
+Benign - Likely benign,LabCorp,InSiGHT, 3
+Likely pathogenic - Pathogenic,InSiGHT,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 3
+Uncertain significance - Likely benign,Ambry Genetics,LabCorp, 2
+Uncertain significance - Likely benign,InSiGHT,LabCorp, 3
+Benign - Likely benign,InSiGHT,Ambry Genetics, 4
+Uncertain significance - Likely benign,Invitae,InSiGHT, 6
+Benign - Likely benign,InSiGHT,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely pathogenic - Uncertain significance,InSiGHT,LabCorp, 4
+Uncertain significance - Benign,Emory Genetics Laboratory,InSiGHT, 1
+Likely benign - Uncertain significance,LabCorp,InSiGHT, 1
+Uncertain significance - Likely benign,Pathway Genomics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Benign,InSiGHT,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Likely benign,Ambry Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Benign,Invitae,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,InSiGHT, 3
+Pathogenic - Likely pathogenic,InSiGHT,OMIM, 2
+Benign - Likely benign,InSiGHT,Invitae, 2
+Uncertain significance - Likely pathogenic,InSiGHT,GeneDx, 1
+Uncertain significance - Pathogenic,InSiGHT,Invitae, 2
+Likely pathogenic - Pathogenic,InSiGHT,Emory Genetics Laboratory, 1
+Pathogenic - Uncertain significance,InSiGHT,OMIM, 2
+Pathogenic - Uncertain significance,Invitae,InSiGHT, 1
+Likely pathogenic - Likely benign,InSiGHT,LabCorp, 1
+Likely pathogenic - Uncertain significance,Ambry Genetics,LabCorp, 2
+Uncertain significance - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,InSiGHT, 1
+Pathogenic - Likely pathogenic,GeneDx,InSiGHT, 1
+Likely pathogenic - Pathogenic,LabCorp,Ambry Genetics, 2
+Likely benign - Benign,InSiGHT,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely benign - Benign,Invitae,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely benign - Uncertain significance,LabCorp,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Pathogenic - Benign,InSiGHT,OMIM, 1
+Likely pathogenic - Pathogenic,LabCorp,InSiGHT, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,InSiGHT, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Ambry Genetics, 3
+Pathogenic - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,InSiGHT, 1
+Benign - Uncertain significance,OMIM,Department of Pharmacy and Biotechnology University of Bologna, 2
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 1
+Benign - Uncertain significance,GeneDx,Department of Pharmacy and Biotechnology University of Bologna, 4
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 1
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 1
+Likely pathogenic - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 1
+Uncertain significance - Pathogenic,Invitae,GeneDx, 1
+Uncertain significance - Likely pathogenic,Invitae,Ambry Genetics, 1
+Pathogenic - Likely pathogenic,Pathway Genomics,Ambry Genetics, 1
+Likely pathogenic - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 1
+Likely pathogenic - Uncertain significance,Ambry Genetics,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Pathogenic - Likely pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 23
+Pathogenic - Likely pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,GeneDx, 1
+Likely pathogenic - Uncertain significance,Blueprint Genetics,LabCorp, 2
+Likely pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,LabCorp, 4
+Uncertain significance - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Biesecker Laboratory - ClinSeq Project  NHGRI, 6
+Likely pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 4
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 2
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Invitae, 3
+Pathogenic - Likely pathogenic,Blueprint Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 5
+Likely benign - Benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,CSER_CC_NCGL; University of Washington Medical Center, 2
+Pathogenic - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Likely pathogenic - Uncertain significance,GeneDx,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely pathogenic - Likely benign,Invitae,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely pathogenic - Pathogenic,Blueprint Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Benign - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Uncertain significance,Invitae,GeneDx, 2
+Likely pathogenic - Benign,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,GeneDx, 7
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,GeneDx, 1
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,LabCorp, 1
+Pathogenic - Uncertain significance,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,GeneDx, 4
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 2
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 3
+Benign - Uncertain significance,Blueprint Genetics,GeneDx, 2
+Likely benign - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,Blueprint Genetics, 1
+Benign - Likely benign,Blueprint Genetics,Emory Genetics Laboratory, 1
+Benign - Likely benign,Blueprint Genetics,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Benign - Uncertain significance,Blueprint Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Pathogenic - Likely pathogenic,Scripps Translational Science Institute Scripps Health and The Scripps Research Institute,OMIM, 1
+Likely benign - Uncertain significance,GeneDx,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 2
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Agnes Ginges Centre for Molecular Cardiology Centenary Institute, 2
+Uncertain significance - Likely benign,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,LabCorp, 1
+Pathogenic - Likely pathogenic,Blueprint Genetics,Evolutionary and Medical Genetics Laboratory   Centre for Cellular and Molecular Biology, 1
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Agnes Ginges Centre for Molecular Cardiology Centenary Institute, 3
+Pathogenic - Likely pathogenic,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Evolutionary and Medical Genetics Laboratory   Centre for Cellular and Molecular Biology, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Agnes Ginges Centre for Molecular Cardiology Centenary Institute, 2
+Pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 2
+Uncertain significance - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 2
+Uncertain significance - Pathogenic,Blueprint Genetics,GeneDx, 3
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Department of Neurology  University Hospital of Strasbourg, 1
+Pathogenic - Likely pathogenic,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,GeneDx,OMIM, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Neurogenetics Laboratory Royal Perth Hospital, 1
+Likely benign - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 1
+Uncertain significance - Likely pathogenic,CSER_CC_NCGL; University of Washington Medical Center,Blueprint Genetics, 1
+Likely pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 3
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 11
+Likely benign - Likely pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,GeneDx, 1
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,ClinVar Staff  National Center for Biotechnology Information (NCBI), 1
+Uncertain significance - Likely pathogenic,Genetic Services Laboratory  University of Chicago,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 2
+Uncertain significance - Likely benign,Genetic Services Laboratory  University of Chicago,OMIM, 1
+Likely benign - Uncertain significance,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 7
+Pathogenic - Likely pathogenic,University of British Columbia,OMIM, 2
+Pathogenic - Likely pathogenic,Counsyl,Huiwen Shanghain Institute for Pediatric Research, 1
+Pathogenic - Uncertain significance,Emory Genetics Laboratory,Unidad de Diagnostico y Tratamiento de Errores Congenitos del Metabolismo. Hospital Clínico Universitário de Santiago de Compostela, 1
+Likely benign - Benign,Emory Genetics Laboratory,Blueprint Genetics, 1
+Likely pathogenic - Pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,Division of Human Genetics Children's Hospital of Philadelphia, 1
+Uncertain significance - Likely pathogenic,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 1
+Uncertain significance - Benign,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 2
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Genetic Services Laboratory  University of Chicago, 2
+Pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,GenMed Metabolism Lab, 2
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,GenMed Metabolism Lab, 1
+Likely benign - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneReviews, 1
+Benign - Uncertain significance,GeneReviews,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,Inserm U 954  Faculté de Médecine de Nancy,GeneDx, 1
+Likely benign - Uncertain significance,PALB2 database,Ambry Genetics, 3
+Likely benign - Uncertain significance,PALB2 database,Invitae, 2
+Likely benign - Uncertain significance,PALB2 database,GeneDx, 3
+Uncertain significance - Benign,Invitae,PALB2 database, 1
+Uncertain significance - Benign,GeneDx,PALB2 database, 3
+Uncertain significance - Benign,Ambry Genetics,PALB2 database, 2
+Uncertain significance - Benign,Pathway Genomics,PALB2 database, 1
+Benign - Likely benign,PALB2 database,Ambry Genetics, 2
+Likely benign - Benign,GeneDx,PALB2 database, 12
+Uncertain significance - Likely benign,Ambry Genetics,PALB2 database, 2
+Likely benign - Benign,Ambry Genetics,PALB2 database, 3
+Likely pathogenic - Uncertain significance,Ambry Genetics,PALB2 database, 2
+Uncertain significance - Likely benign,Invitae,PALB2 database, 2
+Likely benign - Benign,Invitae,PALB2 database, 1
+Likely benign - Benign,Pathway Genomics,PALB2 database, 2
+Benign - Likely benign,PALB2 database,GeneDx, 1
+Uncertain significance - Pathogenic,PALB2 database,Pathway Genomics, 1
+Uncertain significance - Pathogenic,PALB2 database,Emory Genetics Laboratory, 1
+Uncertain significance - Pathogenic,PALB2 database,GeneDx, 1
+Uncertain significance - Pathogenic,PALB2 database,Ambry Genetics, 1
+Uncertain significance - Pathogenic,PALB2 database,Invitae, 1
+Likely pathogenic - Pathogenic,PALB2 database,GeneDx, 1
+Pathogenic - Likely pathogenic,Invitae,PALB2 database, 1
+Likely pathogenic - Uncertain significance,GeneDx,PALB2 database, 1
+Likely pathogenic - Uncertain significance,Invitae,PALB2 database, 1
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Counsyl, 5
+Pathogenic - Likely pathogenic,Emory Genetics Laboratory,Invitae, 1
+Likely benign - Benign,Emory Genetics Laboratory,Counsyl, 1
+Uncertain significance - Likely benign,Counsyl,Emory Genetics Laboratory, 2
+Uncertain significance - Benign,Blueprint Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario, 2
+Pathogenic - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,LabCorp, 1
+Likely benign - Uncertain significance,LabCorp,CSER_CC_NCGL; University of Washington Medical Center, 1
+Uncertain significance - Pathogenic,Molecular Genetics Diagnostic Laboratory Children's Hospital of Eastern Ontario,GeneDx, 1
+Uncertain significance - Benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,InSiGHT, 2
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,InSiGHT, 2
+Uncertain significance - Likely pathogenic,InSiGHT,Pathway Genomics, 1
+Uncertain significance - Pathogenic,InSiGHT,GeneDx, 2
+Pathogenic - Likely pathogenic,Pathway Genomics,InSiGHT, 1
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Invitae, 1
+Benign - Pathogenic,GeneReviews,Department of Neurology  University Hospital of Strasbourg, 1
+Benign - Uncertain significance,GeneReviews,Emory Genetics Laboratory, 1
+Likely benign - Pathogenic,Emory Genetics Laboratory,GeneDx, 1
+Likely pathogenic - Likely benign,GeneDx,Mendelics, 1
+Uncertain significance - Pathogenic,Richard Lifton Laboratory  Yale University School of Medicine,Institute of Human Genetics  Helmholtz Zentrum München, German Research Center for Environmental Health, 1
+Uncertain significance - Pathogenic,Richard Lifton Laboratory  Yale University School of Medicine,OMIM, 1
+Benign - Likely benign,GeneDx,Department of Ophthalmology and Visual Sciences Kyoto University, 1
+Uncertain significance - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 1
+Benign - Likely benign,GeneDx,ARUP Laboratories University of Utah  Department of Pathology, 1
+Likely benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,ARUP Laboratories University of Utah  Department of Pathology, 1
+Pathogenic - Likely pathogenic,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center,GeneDx, 1
+Likely benign - Benign,ARUP Laboratories University of Utah  Department of Pathology,LabCorp, 1
+Likely benign - Benign,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center,LabCorp, 1
+Likely benign - Benign,Baylor Miraca Genetics Laboratories,LabCorp, 1
+Likely pathogenic - Uncertain significance,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Benign,ARUP Laboratories University of Utah  Department of Pathology,Emory Genetics Laboratory, 1
+Uncertain significance - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 1
+Benign - Pathogenic,Emory Genetics Laboratory,GeneReviews, 1
+Uncertain significance - Likely pathogenic,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center,GeneDx, 1
+Likely benign - Benign,Baylor Miraca Genetics Laboratories,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Pathogenic - Likely pathogenic,Genomic Research Center  Shahid Beheshti University of Medical Sciences,OMIM, 2
+Benign - Uncertain significance,Emory Genetics Laboratory,ClinVar Staff  National Center for Biotechnology Information (NCBI), 2
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,LabCorp, 1
+Pathogenic - Uncertain significance,ARUP,OMIM, 3
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,ARUP, 2
+Uncertain significance - Likely benign,Invitae,ARUP, 2
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,ARUP, 1
+Uncertain significance - Pathogenic,ARUP,Emory Genetics Laboratory, 2
+Pathogenic - Likely benign,Invitae,ARUP, 1
+Pathogenic - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,ARUP, 1
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Emory Genetics Laboratory, 2
+Pathogenic - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,GeneReviews, 2
+Pathogenic - Likely pathogenic,Genetic Services Laboratory  University of Chicago,GeneReviews, 1
+Benign - Uncertain significance,GeneReviews,CSER_CC_NCGL; University of Washington Medical Center, 1
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Genetic Services Laboratory  University of Chicago, 2
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Genetic Services Laboratory  University of Chicago, 1
+Pathogenic - Likely pathogenic,Emory Genetics Laboratory,GeneReviews, 2
+Benign - Uncertain significance,Genetic Services Laboratory  University of Chicago,CSER_CC_NCGL; University of Washington Medical Center, 1
+Pathogenic - Uncertain significance,Laboratory for Medical Science Mathematics RIKEN,GeneDx, 2
+Pathogenic - Uncertain significance,Laboratory for Medical Science Mathematics RIKEN,OMIM, 1
+Uncertain significance - Likely benign,Emory Genetics Laboratory,Blueprint Genetics, 1
+Uncertain significance - Likely benign,GeneDx,UniProtKB/Swiss-Prot, 1
+Pathogenic - Likely pathogenic,GeneDx,Center for Bioinformatics  Peking University, 2
+Pathogenic - Uncertain significance,GeneDx,Center for Bioinformatics  Peking University, 1
+Uncertain significance - Pathogenic,Emory Genetics Laboratory,Center for Bioinformatics  Peking University, 1
+Uncertain significance - Likely benign,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,Blueprint Genetics, 1
+Benign - Uncertain significance,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 4
+Likely benign - Benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Likely pathogenic - Likely benign,Blueprint Genetics,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 3
+Likely pathogenic - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Likely pathogenic - Likely benign,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Uncertain significance - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 4
+Uncertain significance - Likely pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Uncertain significance - Benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 2
+Likely pathogenic - Uncertain significance,GeneDx,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Likely pathogenic - Pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,GeneReviews, 1
+Pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Pathogenic - Benign,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,OMIM, 1
+Likely benign - Uncertain significance,LabCorp,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust, 1
+Likely pathogenic - Pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,OMIM, 1
+Pathogenic - Likely pathogenic,Cardiovascular Biomedical Research Unit Royal Brompton & Harefield NHS Foundation Trust,OMIM, 1
+Likely pathogenic - Pathogenic,Mendelics,GeneDx, 1
+Pathogenic - Likely pathogenic,Section on Endocrinology and Genetics National Institutes of Health / The Eunice Kennedy Shriver National Institute of Child Health and Human Development,Ambry Genetics, 2
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Ambry Genetics, 1
+Pathogenic - Likely pathogenic,Section on Endocrinology and Genetics National Institutes of Health / The Eunice Kennedy Shriver National Institute of Child Health and Human Development,OMIM, 1
+Uncertain significance - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,OMIM, 1
+Pathogenic - Uncertain significance,Division of Human Genetics Children's Hospital of Philadelphia,OMIM, 1
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,GeneDx, 1
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 2
+Benign - Likely benign,GeneReviews,Emory Genetics Laboratory, 2
+Pathogenic - Uncertain significance,GeneDx,Genetic Testing Lab  University of Kentucky College of Medicine, 1
+Pathogenic - Likely pathogenic,Baylor Miraca Genetics Laboratories,OMIM, 1
+Benign - Likely benign,Genetic Services Laboratory  University of Chicago,GeneDx, 2
+Benign - Likely benign,Genetic Services Laboratory  University of Chicago,Emory Genetics Laboratory, 1
+Pathogenic - Likely pathogenic,Division of Human Genetics Children's Hospital of Philadelphia,GeneReviews, 1
+Benign - Likely benign,ARUP,Ambry Genetics, 1
+Pathogenic - Likely pathogenic,Ambry Genetics,ARUP, 1
+Likely benign - Pathogenic,Biesecker Laboratory - ClinSeq Project  NHGRI,OMIM, 1
+Benign - Uncertain significance,GeneDx,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 4
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Greenwood Genetic Center Diagnostic Laboratories Greenwood Genetic Center, 1
+Benign - Likely benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,ARUP Laboratories University of Utah  Department of Pathology, 1
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,ARUP Laboratories University of Utah  Department of Pathology, 1
+Pathogenic - Likely pathogenic,Genome Diagnostics Laboratory University Medical Center Utrecht,GeneDx, 1
+Pathogenic - Likely pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,Invitae, 1
+Benign - Pathogenic,LabCorp,GeneReviews, 1
+Likely pathogenic - Pathogenic,LabCorp,GeneReviews, 1
+Uncertain significance - Benign,Invitae,OMIM, 1
+Pathogenic - Likely pathogenic,Division of Human Genetics Children's Hospital of Philadelphia,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,GeneDx, 1
+Pathogenic - Likely pathogenic,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center,James R. Lupski Lab Baylor College of Medicine, 1
+Likely benign - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Familial Cancer Clinic Veneto Institute of Oncology, 2
+Likely pathogenic - Likely benign,Ambry Genetics,Familial Cancer Clinic Veneto Institute of Oncology, 1
+Likely pathogenic - Uncertain significance,Emory Genetics Laboratory,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM), 2
+Pathogenic - Likely pathogenic,Invitae,GeneDx, 1
+Likely benign - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Evolutionary and Medical Genetics Laboratory   Centre for Cellular and Molecular Biology, 1
+Pathogenic - Uncertain significance,GeneDx,Evolutionary and Medical Genetics Laboratory   Centre for Cellular and Molecular Biology, 1
+Uncertain significance - Pathogenic,LabCorp,GeneDx, 1
+Pathogenic - Uncertain significance,Agnes Ginges Centre for Molecular Cardiology Centenary Institute,OMIM, 1
+Uncertain significance - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely benign - Uncertain significance,Ambry Genetics,Invitae, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 18
+Uncertain significance - Benign,Pathway Genomics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Benign,Ambry Genetics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Benign - Uncertain significance,OMIM,Pathway Genomics, 1
+Likely pathogenic - Pathogenic,Ambry Genetics,Invitae, 1
+Likely benign - Uncertain significance,CSER_CC_NCGL; University of Washington Medical Center,Ambry Genetics, 1
+Likely pathogenic - Pathogenic,Richard Lifton Laboratory  Yale University School of Medicine,GeneDx, 1
+Likely pathogenic - Uncertain significance,Pathway Genomics,Ambry Genetics, 1
+Likely pathogenic - Uncertain significance,Science for Life laboratory Medical Epidemiology and Biostatistics,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Likely pathogenic - Pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Pathway Genomics, 1
+Uncertain significance - Likely pathogenic,GeneDx,CSER_CC_NCGL; University of Washington Medical Center, 1
+Likely pathogenic - Likely benign,CSER_CC_NCGL; University of Washington Medical Center,Ambry Genetics, 1
+Uncertain significance - Likely pathogenic,Science for Life laboratory Medical Epidemiology and Biostatistics,GeneDx, 1
+Benign - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Genetic Services Laboratory  University of Chicago, 3
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Department of Genetics  Reproduction and Fetal Medicine.,Institute of Biomedicine of Seville (IBIS), University Hospital Virgen del Rocío/CSIC/University of Seville., 1
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Genetic Services Laboratory  University of Chicago, 1
+Likely benign - Uncertain significance,Biesecker Laboratory - ClinSeq Project  NHGRI,Ambry Genetics, 2
+Likely benign - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Benign - Uncertain significance,GeneDx,Biesecker Laboratory - ClinSeq Project  NHGRI, 1
+Likely benign - Benign,Génétique et pathophysiologie de maladies neurodéveloppementales et épileptogènes  Institut de génétique et de biologie moléculaire et cellulaire,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 3
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Blueprint Genetics, 2
+Likely pathogenic - Likely benign,GeneDx,Blueprint Genetics, 1
+Uncertain significance - Likely benign,Biesecker Laboratory - ClinSeq Project  NHGRI,Genetic Services Laboratory  University of Chicago, 2
+Likely pathogenic - Pathogenic,Genetic Services Laboratory  University of Chicago,Génétique et pathophysiologie de maladies neurodéveloppementales et épileptogènes  Institut de génétique et de biologie moléculaire et cellulaire, 1
+Likely pathogenic - Pathogenic,Genetic Services Laboratory  University of Chicago,Ambry Genetics, 1
+Benign - Uncertain significance,GeneDx,Baylor Miraca Genetics Laboratories, 5
+Benign - Uncertain significance,Emory Genetics Laboratory,Baylor Miraca Genetics Laboratories, 4
+Pathogenic - Likely pathogenic,Genetic Services Laboratory  University of Chicago,Baylor Miraca Genetics Laboratories, 1
+Uncertain significance - Benign,Genetic Services Laboratory  University of Chicago,Baylor Miraca Genetics Laboratories, 1
+Pathogenic - Likely pathogenic,Emory Genetics Laboratory,Baylor Miraca Genetics Laboratories, 1
+Likely pathogenic - Pathogenic,Baylor Miraca Genetics Laboratories,Genetic Services Laboratory  University of Chicago, 1
+Benign - Uncertain significance,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Molecular Genetics Laboratory; Baylor College of Medicine, 1
+Likely benign - Likely pathogenic,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Developmental Genetics Unit; King Faisal Specialist Hospital and Research Center, 1
+Likely pathogenic - Uncertain significance,Molecular Diagnostics Laboratory Seoul National University Hospital,Department of Ophthalmology and Visual Sciences Kyoto University, 1
+Likely pathogenic - Pathogenic,Juha Muilu Group; Institute for Molecular Medicine Finland (FIMM),Greg Lennon SNPedia, 8
+Pathogenic - Likely pathogenic,Counsyl,Greg Lennon SNPedia, 1
+Likely benign - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Department of Ophthalmology and Visual Sciences Kyoto University, 1
+Benign - Likely benign,Genetic Services Laboratory  University of Chicago,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine, 1
+Uncertain significance - Benign,Emory Genetics Laboratory,GeneReviews, 1
+Benign - Likely benign,Emory Genetics Laboratory,Division of Genomic Diagnostics The Children's Hospital of Philadelphia, 1
+Uncertain significance - Likely benign,Division of Genomic Diagnostics The Children's Hospital of Philadelphia,GeneDx, 1
+Benign - Likely benign,GeneDx,Molecular Genetics Laboratory Children's Mercy Hospital and Clinics, 1
+conflicting data from submitters - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 6, 12
+conflicting data from submitters - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 103
+conflicting data from submitters - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 8, 6
+conflicting data from submitters - Benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 2
+conflicting data from submitters - Benign,ISCA site 2,ISCA site 1, 1
+conflicting data from submitters - Benign,ISCA site 8,ISCA site 1, 2
+Uncertain significance - Benign,ISCA site 4,ISCA site 1, 1
+conflicting data from submitters - Benign,ISCA site 4,ISCA site 1, 1
+conflicting data from submitters - Pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 57
+Uncertain significance - Benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 8, 1
+Uncertain significance - Benign,ISCA site 17,ISCA site 8, 1
+Uncertain significance - Benign,ISCA site 4,ISCA site 8, 1
+Benign - Uncertain significance,ISCA site 4,International Standards For Cytogenomic Arrays Consortium (ISCA), 6
+Likely pathogenic - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 14, 1
+Likely pathogenic - conflicting data from submitters,ISCA site 1,ISCA site 14, 1
+Pathogenic - conflicting data from submitters,ISCA site 1,ISCA site 8, 1
+Pathogenic - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 8, 1
+Pathogenic - Uncertain significance,ISCA site 1,ISCA site 8, 1
+Pathogenic - Uncertain significance,ISCA site 1,ISCA site 17, 1
+conflicting data from submitters - Uncertain significance,ISCA site 8,ISCA site 4, 1
+conflicting data from submitters - Uncertain significance,ISCA site 17,ISCA site 4, 2
+Benign - conflicting data from submitters,ISCA site 1,ISCA site 4, 2
+conflicting data from submitters - Likely pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 11
+conflicting data from submitters - Likely pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 6, 1
+conflicting data from submitters - Pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 6, 1
+conflicting data from submitters - Uncertain significance,ISCA site 17,ISCA site 1, 1
+conflicting data from submitters - Pathogenic,ISCA site 3,ISCA site 1, 1
+Uncertain significance - Pathogenic,ISCA site 1,International Standards For Cytogenomic Arrays Consortium (ISCA), 10
+Uncertain significance - Pathogenic,ISCA site 4,International Standards For Cytogenomic Arrays Consortium (ISCA), 8
+Uncertain significance - Pathogenic,ISCA site 6,International Standards For Cytogenomic Arrays Consortium (ISCA), 2
+Uncertain significance - conflicting data from submitters,ISCA site 1,ISCA site 4, 1
+Pathogenic - Uncertain significance,ISCA site 4,ISCA site 17, 1
+conflicting data from submitters - Pathogenic,ISCA site 17,ISCA site 1, 2
+conflicting data from submitters - Pathogenic,ISCA site 4,ISCA site 1, 8
+conflicting data from submitters - Uncertain significance,ISCA site 4,ISCA site 1, 3
+conflicting data from submitters - Pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 8, 2
+conflicting data from submitters - Benign,ISCA site 8,ISCA site 4, 1
+conflicting data from submitters - Benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 1
+Benign - Uncertain significance,ISCA site 4,ISCA site 1, 2
+Benign - Uncertain significance,ISCA site 4,ISCA site 17, 2
+Pathogenic - Uncertain significance,ISCA site 1,ISCA site 4, 4
+Benign - Uncertain significance,ISCA site 8,ISCA site 1, 1
+conflicting data from submitters - Pathogenic,ISCA site 8,ISCA site 1, 2
+conflicting data from submitters - Pathogenic,ISCA site 17,ISCA site 4, 1
+Pathogenic - conflicting data from submitters,ISCA site 1,ISCA site 4, 3
+Pathogenic - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 5
+Pathogenic - Likely pathogenic,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 1
+Pathogenic - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 17, 1
+Pathogenic - conflicting data from submitters,ISCA site 1,ISCA site 17, 1
+Likely pathogenic - Pathogenic,ISCA site 1,ISCA site 2, 1
+Likely pathogenic - Pathogenic,ISCA site 1,ISCA site 8, 1
+Likely pathogenic - Pathogenic,ISCA site 1,International Standards For Cytogenomic Arrays Consortium (ISCA), 1
+Uncertain significance - Pathogenic,ISCA site 1,ISCA site 4, 1
+conflicting data from submitters - Likely benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 4, 2
+Benign - Uncertain significance,ISCA site 8,ISCA site 17, 1
+Pathogenic - Benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 1
+Benign - Pathogenic,ISCA site 4,International Standards For Cytogenomic Arrays Consortium (ISCA), 1
+Uncertain significance - Benign,ISCA site 8,ISCA site 4, 1
+Benign - conflicting data from submitters,ISCA site 4,ISCA site 8, 1
+Benign - Uncertain significance,ISCA site 8,International Standards For Cytogenomic Arrays Consortium (ISCA), 1
+conflicting data from submitters - Likely benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 6, 3
+Uncertain significance - Benign,ISCA site 17,ISCA site 1, 1
+Uncertain significance - Likely benign,ISCA site 1,ISCA site 17, 1
+Pathogenic - Uncertain significance,ISCA site 17,ISCA site 1, 1
+conflicting data from submitters - Uncertain significance,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 2, 1
+Likely benign - Uncertain significance,ISCA site 1,International Standards For Cytogenomic Arrays Consortium (ISCA), 2
+Likely benign - Uncertain significance,ISCA site 1,ISCA site 4, 1
+Likely pathogenic - Benign,ISCA site 4,ISCA site 1, 1
+Likely pathogenic - Benign,ISCA site 8,ISCA site 1, 1
+Likely pathogenic - Benign,International Standards For Cytogenomic Arrays Consortium (ISCA),ISCA site 1, 1
+Benign - Uncertain significance,ISCA site 4,ISCA site 8, 1
+Likely benign - Pathogenic,ISCA site 1,ISCA site 4, 1
+Pathogenic - Likely benign,ISCA site 1,ISCA site 8, 1
+Pathogenic - Benign,ISCA site 4,ISCA site 8, 1
+Uncertain significance - Benign,Laboratory for Molecular Medicine  Partners HealthCare Personalized Medicine,Genetic Services Laboratory  University of Chicago, 1
+Likely benign - Uncertain significance,OMIM,GeneReviews, 1

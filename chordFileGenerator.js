@@ -17,7 +17,7 @@
     
     function writeFile(){
         var labICounter = createLabInteractionSummary();
-        var file = "Year,Lab 1,Lab 2, Variant Count\n";
+        var file = "catDiff,Lab 1,Lab 2, Variant Count\n";
         
         for(var uniqueCombination in labICounter){
             file = file + uniqueCombination + ", " + labICounter[uniqueCombination];
