@@ -223,7 +223,7 @@ function generateLabLVariantArray(lab) {
 function generateAbout() {
     clearAreas();
     var htmlOutput = "";
-    htmlOutput = "<div class=\"container\"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">About</h4>About Text here</div></div>"
+    htmlOutput = "<div class=\"container\"><div class=\"row \"><div class=\"col-sm-12 \"><h4 class=\"margin-none\">About Variant Explorer:</h4>Variant Explorer enables users to visualize differences in variant interpretations across laboratories.  Variant Explorer was created and is maintained by Justin Aronson, with significant clinical guidance from Dr. Steven Harrison and Dr. Heidi Rehm.  Larry Babb also provided technical guidance, along with Justin’s father Sandy Aronson.  A very significant update was provided by Scott Goehringer, who, among other things, radically improved the aesthetics of the site.<br><br>The code for Variant Explorer is available <a href=www.github.com/JustinAronson/VariantExplorer>here</a>.<br><br>Being a 13 year old, Justin felt a need to make a trailer available <a href=www.youtu.be/z80mOGk5fuk>here</a>.<br><br>Feedback on this site is very much appreciated.  We can be reached at variantexplorer@gmail.com.</div></div>"
     $("#Area1").html(htmlOutput);
 }
 
