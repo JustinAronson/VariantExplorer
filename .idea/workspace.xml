@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f73749-fa34-4e58-90b7-c143da291771" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/ClinVarJan.2016.txt" afterPath="$PROJECT_DIR$/input/ClinVarJan.2016.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorer.html" afterPath="$PROJECT_DIR$/VariantExplorer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorer.js" afterPath="$PROJECT_DIR$/VariantExplorer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorerPreprocessor/interpPairsArray.json" afterPath="$PROJECT_DIR$/VariantExplorerPreprocessor/interpPairsArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/interpPairsArray.json" afterPath="$PROJECT_DIR$/input/interpPairsArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorerPreprocessor/matrix.json" afterPath="$PROJECT_DIR$/VariantExplorerPreprocessor/matrix.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/matrix.json" afterPath="$PROJECT_DIR$/input/matrix.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorerPreprocessor/sigArray.json" afterPath="$PROJECT_DIR$/VariantExplorerPreprocessor/sigArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/sigArray.json" afterPath="$PROJECT_DIR$/input/sigArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VariantExplorerPreprocessor/vArray.json" afterPath="$PROJECT_DIR$/VariantExplorerPreprocessor/vArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/vArray.json" afterPath="$PROJECT_DIR$/input/vArray.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FileReader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,29 +62,29 @@
                 <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
                 <element signature="n#!!block;n#totalCount#0" expanded="false" />
-                <element signature="e#17288#17404#0" expanded="false" />
+                <element signature="e#17315#17431#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-                <element signature="e#18935#19525#0" expanded="false" />
-                <element signature="e#19714#20319#0" expanded="false" />
+                <element signature="e#18962#19552#0" expanded="false" />
+                <element signature="e#19741#20346#0" expanded="false" />
                 <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-                <element signature="e#20533#20573#0" expanded="false" />
+                <element signature="e#20560#20600#0" expanded="false" />
                 <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
                 <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-                <element signature="e#22954#23666#0" expanded="false" />
-                <element signature="e#23214#23650#0" expanded="false" />
-                <element signature="e#23458#23618#0" expanded="false" />
+                <element signature="e#22981#23693#0" expanded="false" />
+                <element signature="e#23241#23677#0" expanded="false" />
+                <element signature="e#23485#23645#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
                 <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
                 <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
                 <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-                <element signature="e#26682#26765#0" expanded="false" />
+                <element signature="e#26709#26792#0" expanded="false" />
                 <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
                 <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-                <element signature="e#27696#27832#0" expanded="false" />
+                <element signature="e#27723#27859#0" expanded="false" />
                 <element signature="n#!!block;n#countSigs#0" expanded="false" />
                 <element signature="n#!!block;n#countLabs#0" expanded="false" />
                 <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -105,7 +94,7 @@
                 <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
                 <element signature="n#!!block;n#writeRow#0" expanded="false" />
                 <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-                <element signature="e#33053#33213#0" expanded="false" />
+                <element signature="e#33080#33240#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -494,29 +483,29 @@
             <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#17288#17404#0" expanded="false" />
+            <element signature="e#17315#17431#0" expanded="false" />
             <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#18935#19525#0" expanded="false" />
-            <element signature="e#19714#20319#0" expanded="false" />
+            <element signature="e#18962#19552#0" expanded="false" />
+            <element signature="e#19741#20346#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#20533#20573#0" expanded="false" />
+            <element signature="e#20560#20600#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#22954#23666#0" expanded="false" />
-            <element signature="e#23214#23650#0" expanded="false" />
-            <element signature="e#23458#23618#0" expanded="false" />
+            <element signature="e#22981#23693#0" expanded="false" />
+            <element signature="e#23241#23677#0" expanded="false" />
+            <element signature="e#23485#23645#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
             <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#26682#26765#0" expanded="false" />
+            <element signature="e#26709#26792#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#27696#27832#0" expanded="false" />
+            <element signature="e#27723#27859#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -526,7 +515,7 @@
             <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
             <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#33053#33213#0" expanded="false" />
+            <element signature="e#33080#33240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -580,29 +569,29 @@
             <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#17288#17404#0" expanded="false" />
+            <element signature="e#17315#17431#0" expanded="false" />
             <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#18935#19525#0" expanded="false" />
-            <element signature="e#19714#20319#0" expanded="false" />
+            <element signature="e#18962#19552#0" expanded="false" />
+            <element signature="e#19741#20346#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#20533#20573#0" expanded="false" />
+            <element signature="e#20560#20600#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#22954#23666#0" expanded="false" />
-            <element signature="e#23214#23650#0" expanded="false" />
-            <element signature="e#23458#23618#0" expanded="false" />
+            <element signature="e#22981#23693#0" expanded="false" />
+            <element signature="e#23241#23677#0" expanded="false" />
+            <element signature="e#23485#23645#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
             <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#26682#26765#0" expanded="false" />
+            <element signature="e#26709#26792#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#27696#27832#0" expanded="false" />
+            <element signature="e#27723#27859#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -612,7 +601,7 @@
             <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
             <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#33053#33213#0" expanded="false" />
+            <element signature="e#33080#33240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -666,29 +655,29 @@
             <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#17288#17404#0" expanded="false" />
+            <element signature="e#17315#17431#0" expanded="false" />
             <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#18935#19525#0" expanded="false" />
-            <element signature="e#19714#20319#0" expanded="false" />
+            <element signature="e#18962#19552#0" expanded="false" />
+            <element signature="e#19741#20346#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#20533#20573#0" expanded="false" />
+            <element signature="e#20560#20600#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#22954#23666#0" expanded="false" />
-            <element signature="e#23214#23650#0" expanded="false" />
-            <element signature="e#23458#23618#0" expanded="false" />
+            <element signature="e#22981#23693#0" expanded="false" />
+            <element signature="e#23241#23677#0" expanded="false" />
+            <element signature="e#23485#23645#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
             <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#26682#26765#0" expanded="false" />
+            <element signature="e#26709#26792#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#27696#27832#0" expanded="false" />
+            <element signature="e#27723#27859#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -698,7 +687,7 @@
             <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
             <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#33053#33213#0" expanded="false" />
+            <element signature="e#33080#33240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -773,29 +762,29 @@
             <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#17288#17404#0" expanded="false" />
+            <element signature="e#17315#17431#0" expanded="false" />
             <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#18935#19525#0" expanded="false" />
-            <element signature="e#19714#20319#0" expanded="false" />
+            <element signature="e#18962#19552#0" expanded="false" />
+            <element signature="e#19741#20346#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#20533#20573#0" expanded="false" />
+            <element signature="e#20560#20600#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#22954#23666#0" expanded="false" />
-            <element signature="e#23214#23650#0" expanded="false" />
-            <element signature="e#23458#23618#0" expanded="false" />
+            <element signature="e#22981#23693#0" expanded="false" />
+            <element signature="e#23241#23677#0" expanded="false" />
+            <element signature="e#23485#23645#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
             <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#26682#26765#0" expanded="false" />
+            <element signature="e#26709#26792#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#27696#27832#0" expanded="false" />
+            <element signature="e#27723#27859#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -805,7 +794,7 @@
             <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
             <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#33053#33213#0" expanded="false" />
+            <element signature="e#33080#33240#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1060,29 +1049,29 @@
             <element signature="n#!!block;n#generateLabSearchButtons#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#totalCount#0" expanded="false" />
-            <element signature="e#17288#17404#0" expanded="false" />
+            <element signature="e#17315#17431#0" expanded="false" />
             <element signature="n#!!block;n#generateLabCountTable#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArray#0" expanded="false" />
-            <element signature="e#18935#19525#0" expanded="false" />
-            <element signature="e#19714#20319#0" expanded="false" />
+            <element signature="e#18962#19552#0" expanded="false" />
+            <element signature="e#19741#20346#0" expanded="false" />
             <element signature="n#!!block;n#initializeSTArray#0" expanded="false" />
-            <element signature="e#20533#20573#0" expanded="false" />
+            <element signature="e#20560#20600#0" expanded="false" />
             <element signature="n#!!block;n#initializeCDTArray#0" expanded="false" />
             <element signature="n#!!block;n#generateSigTableArrayForLabPair#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVariantTables#0" expanded="false" />
             <element signature="n#!!block;n#generateSigVArray#0" expanded="false" />
-            <element signature="e#22954#23666#0" expanded="false" />
-            <element signature="e#23214#23650#0" expanded="false" />
-            <element signature="e#23458#23618#0" expanded="false" />
+            <element signature="e#22981#23693#0" expanded="false" />
+            <element signature="e#23241#23677#0" expanded="false" />
+            <element signature="e#23485#23645#0" expanded="false" />
             <element signature="n#!!block;n#generateLabVArray#0" expanded="false" />
             <element signature="n#!!block;n#generateLabTable#0" expanded="false" />
             <element signature="n#!!block;n#addHighlighter#0" expanded="false" />
             <element signature="n#!!block;n#sigTableHeader#0" expanded="false" />
-            <element signature="e#26682#26765#0" expanded="false" />
+            <element signature="e#26709#26792#0" expanded="false" />
             <element signature="n#!!block;n#createSigTableArray#0" expanded="false" />
             <element signature="n#!!block;n#createLabTableArray#0" expanded="false" />
-            <element signature="e#27696#27832#0" expanded="false" />
+            <element signature="e#27723#27859#0" expanded="false" />
             <element signature="n#!!block;n#countSigs#0" expanded="false" />
             <element signature="n#!!block;n#countLabs#0" expanded="false" />
             <element signature="n#!!block;n#createUniqueLabsArray#0" expanded="false" />
@@ -1092,7 +1081,7 @@
             <element signature="n#!!block;n#buildLabInterpTable#0" expanded="false" />
             <element signature="n#!!block;n#writeRow#0" expanded="false" />
             <element signature="n#!!block;n#writeLabTableRow#0" expanded="false" />
-            <element signature="e#33053#33213#0" expanded="false" />
+            <element signature="e#33080#33240#0" expanded="false" />
           </folding>
         </state>
       </provider>
